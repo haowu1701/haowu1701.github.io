@@ -40,4 +40,4 @@ B.E. in Food Science and Engineering (Minor: Data Science and Big Data Technolog
 
 ---
 
-If you are interested in collaboration or discussing research ideas, feel free to contact me at **hao.wu@vanderbilt.edu**.
+If you are interested in collaboration or discussing research ideas, you are very welcome to contact me at **hao.wu@vanderbilt.edu**.
