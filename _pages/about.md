@@ -31,16 +31,12 @@ I am also broadly interested in applying modern causal inference tools to biomed
 
 ### 🎓 Education 
 
-#### Vanderbilt University  
-**PhD in Biostatistics** (2023.08 – present)  
+PhD in Biostatistics, Vanderbilt University, Nashville, US (2023–present)
 
-#### University of Michigan – Ann Arbor  
-**Master of Science in Biostatistics** (2021.08 – 2023.05)  
-Supervisor: **Dr. Lu Wang**  
+M.S. in Biostatistics, University of Michigan–Ann Arbor, Ann Arbor, US (2021–2023)
 
-#### China Agricultural University  
-**Bachelor of Engineering in Food Science and Engineering** (2017.09 – 2021.07)  
-**Minor:** Data Science and Big Data Technology
+B.E. in Food Science and Engineering (Minor: Data Science), China Agricultural University, Beijing, China (2017–2021)
+
 
 ---
 
