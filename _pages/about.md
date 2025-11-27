@@ -42,12 +42,6 @@ Supervisor: **Dr. Lu Wang**
 **Bachelor of Engineering in Food Science and Engineering** (2017.09 – 2021.07)  
 **Minor:** Data Science and Big Data Technology
 
-
----
-
-### 🌱 Beyond Research  
-Outside of academics, I enjoy science communication, cooking, and producing microbiology-themed educational content on Bilibili as **“胡萝卜不是菌”**.
-
 ---
 
 If you are interested in collaboration or discussing research ideas, feel free to contact me at **yunan@ad.unc.edu**.
