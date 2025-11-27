@@ -7,25 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Hao Wu, a PhD student in the **Department of Biostatistics at Vanderbilt University**. I am very grateful to be mentored by **Dr. Bryan E. Shepherd** and **Dr. Jinyuan Liu**. My current research interests include:
-
-### 📌 Semiparametric Theory
-- Efficient influence functions (EIF)   
-- Asymptotic variance estimation under model misspecification
-- Double/debiased machine learning (DML)
-
-### 📌 Causal Inference and Missing Data
-- Doubly robust estimation  
-- Quantile treatment effects (QTE)
-- Longitudinal missingness
-
-### 📌 Others
-- Cumulative probability models (CPM)
-- Clustered randomized clinical trials (CRCT)
-- High-dimensional confounding adjustment
-
-
-I am also broadly interested in applying modern causal inference tools to biomedical research, including HIV epidemiology, microbiome studies, and clinical outcome evaluation.
+I am Hao Wu, a PhD student in the Department of Biostatistics at Vanderbilt University. I am very grateful to be mentored by **Dr. Bryan E. Shepherd** and **Dr. Jinyuan Liu**. My research centers on causal inference and missing-data problems, with applications in HIV epidemiology, psychiatry, and clinical trials. More details can be found in the Collaborative Research and Methodology Research sections.
 
 ---
 
