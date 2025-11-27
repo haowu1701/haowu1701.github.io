@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Hao Wu, a PhD student in the **Department of Biostatistics at Vanderbilt University**. I am very grateful to be mentored by **Dr. Bryan E. Shepherd** and **Dr.Jinyuan Liu**.
+I am Hao Wu, a PhD student in the **Department of Biostatistics at Vanderbilt University**. I am very grateful to be mentored by **Dr. Bryan E. Shepherd** and **Dr. Jinyuan Liu**.
 
 My methodological interests include:
 
