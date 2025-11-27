@@ -35,7 +35,7 @@ PhD in Biostatistics, Vanderbilt University, Nashville, TN, US (2023–present)
 
 M.S. in Biostatistics, University of Michigan–Ann Arbor, Ann Arbor, MI, US (2021–2023)
 
-B.E. in Food Science and Engineering (Minor: Data Science), China Agricultural University, Beijing, China (2017–2021)
+B.E. in Food Science and Engineering (Minor: Data Science and Big Data Technology), China Agricultural University, Beijing, China (2017–2021)
 
 
 ---
