@@ -2,7 +2,7 @@
 layout: about
 title: "About Me"
 permalink: /about/
-author_profile:true
+author_profile: true
 ---
 
 I am **Hao Wu**, a PhD student in the **Department of Biostatistics at Vanderbilt University Medical Center (VUMC)**. I am jointly mentored by **Bryan E. Shepherd, PhD** and **Jinyuan Liu, PhD**. My research focuses on developing robust statistical methods for causal inference and handling complexities commonly encountered in biomedical and public health research.
