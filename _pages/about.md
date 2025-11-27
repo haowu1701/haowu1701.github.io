@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Hao Wu, a PhD student in the Department of Biostatistics at Vanderbilt University. I am very grateful to be mentored by **Dr. Bryan E. Shepherd** and **Dr. Jinyuan Liu**. My research centers on causal inference and missing-data problems, with applications in HIV epidemiology, psychiatry, and clinical trials. More details can be found in the Collaborative Research and Methodology Research sections.
+I am Hao Wu, a PhD student in the Department of Biostatistics at Vanderbilt University. I am very grateful to be mentored by **Dr. Bryan E. Shepherd** and **Dr. Jinyuan Liu**. My current research centers on causal inference and missing-data problems, with applications in HIV epidemiology, psychiatry, and clinical trials. More details can be found in the Collaborative Research and Methodology Research sections.
 
 ---
 
