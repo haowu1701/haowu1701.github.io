@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Hao Wu (he/him)"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -24,7 +24,7 @@ repository               : "haowu1701/haowu1701.github.io"
 author:
   # Biographic information
   avatar           : "datoutieHao.png"
-  #name             : "Hao Wu"
+  name             : "Hao Wu (he/him)"
   #pronouns         :   
   bio              : "PhD Student in Biostatistics at Vanderbilt University"
   location         : "Nashville, TN"
