@@ -33,6 +33,23 @@ I am also broadly interested in applying modern causal inference tools to biomed
 
 ### 🎓 Education 
 
+#### Vanderbilt University  
+**PhD in Biostatistics** (2023.08 – present)  
+Supervisors: **Bryan E. Shepherd, PhD** and **Jinyuan Liu, PhD**
+
+---
+
+#### University of Michigan – Ann Arbor  
+**Master of Science in Biostatistics** (2021.08 – 2023.05)  
+Supervisor: **Lu Wang, PhD**  
+**Major coursework:** Semiparametric Theory & Applications; Machine Learning; Longitudinal Data Analysis
+
+---
+
+#### China Agricultural University  
+**Bachelor of Engineering in Food Science and Engineering** (2017.09 – 2021.07)  
+**Minor:** Data Science and Big Data Technology
+
 
 ---
 
