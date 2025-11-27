@@ -23,7 +23,7 @@ repository               : "haowu1701/haowu1701.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "dattoutieHao.JPG"
+  avatar           : "datoutieHao.png"
   name             : "Hao Wu"
   pronouns         : "he/him"  
   bio              : "PhD Student in Biostatistics at Vanderbilt University"
