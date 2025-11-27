@@ -40,4 +40,4 @@ B.E. in Food Science and Engineering (Minor: Data Science and Big Data Technolog
 
 ---
 
-If you are interested in collaboration or discussing research ideas, feel free to contact me at **yunan@ad.unc.edu**.
+If you are interested in collaboration or discussing research ideas, feel free to contact me at **hao.wu@vanderbilt.edu**.
