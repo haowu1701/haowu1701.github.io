@@ -9,34 +9,30 @@ redirect_from:
 
 I am Hao Wu, a PhD student in the **Department of Biostatistics at Vanderbilt University**. I am very grateful to be mentored by **Dr. Bryan E. Shepherd** and **Dr. Jinyuan Liu**.
 
-My methodological interests include:
-
-### 📌 Causal Inference
-- Doubly robust estimation  
-- Quantile treatment effects  
-- Semiparametric efficiency theory  
-- Targeted learning and machine learning–based causal methods  
+My current interests include:
 
 ### 📌 Semiparametric Theory
-- Efficient influence functions (EIF)  
-- M-estimation and Z-estimation frameworks  
-- Asymptotic variance estimation  
-- Inference under model misspecification  
+- Efficient influence functions (EIF)   
+- Asymptotic variance estimation under model misspecification
+- Double/debiased machine learning (DML)
 
-### 📌 Missing Data
-- Missing not at random (MNAR) mechanisms  
-- Longitudinal missingness  
-- Sensitivity analysis  
-- Causal inference with missing covariates and outcomes  
+### 📌 Causal Inference and Missing Data
+- Doubly robust estimation  
+- Quantile treatment effects (QTE)
+- Longitudinal missingness
+
+### 📌 Others
+- Cumulative probability models (CPM)
+- Clustered randomized clinical trials (CRCT)
+- High-dimensional confounding adjustment
+
 
 I am also broadly interested in applying modern causal inference tools to biomedical research, including HIV epidemiology, microbiome studies, and clinical outcome evaluation.
 
 ---
 
-### 🎓 Background  
-Before joining Vanderbilt, I completed my undergraduate training in **Bioinformatics**, where I cultivated a deep interest in combining data science with human health research. I later developed experience in longitudinal modeling, piecewise regression, and complex real-world data analysis through collaborations with clinical researchers.
+### 🎓 Education 
 
-At Vanderbilt, I continue to work on both statistical methodology and interdisciplinary collaborations, aiming to develop methods that are theoretically principled and practically useful.
 
 ---
 
