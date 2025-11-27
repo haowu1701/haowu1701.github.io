@@ -31,9 +31,9 @@ I am also broadly interested in applying modern causal inference tools to biomed
 
 ### 🎓 Education 
 
-PhD in Biostatistics, Vanderbilt University, Nashville, US (2023–present)
+PhD in Biostatistics, Vanderbilt University, Nashville, TN, US (2023–present)
 
-M.S. in Biostatistics, University of Michigan–Ann Arbor, Ann Arbor, US (2021–2023)
+M.S. in Biostatistics, University of Michigan–Ann Arbor, Ann Arbor, MI, US (2021–2023)
 
 B.E. in Food Science and Engineering (Minor: Data Science), China Agricultural University, Beijing, China (2017–2021)
 
