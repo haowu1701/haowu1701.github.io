@@ -2,9 +2,8 @@
 layout: page
 title: "News"
 permalink: /news/
+author_profile: true
 ---
-
-
 
 ## Recent paper available in arxiv
 **Category:** Paper  
