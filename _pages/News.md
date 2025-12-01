@@ -55,7 +55,8 @@ author_profile: true
   <div class="news-year">2025</div>
   <div class="news-content">
     <span class="news-category">Paper</span>
-   Recent paper available in arxiv about Why Is the Double-Robust Estimator for Causal Inference Not Doubly Robust for Variance Estimation [arxiv](https://doi.org/10.48550/arXiv.2511.17907)
+    Recent paper available on <a href="https://doi.org/10.48550/arXiv.2511.17907" target="_blank">arXiv</a> about 
+    <i>Why Is the Double-Robust Estimator for Causal Inference Not Doubly Robust for Variance Estimation?</i>
   </div>
 </div>
 
@@ -66,7 +67,7 @@ author_profile: true
   <div class="news-content">
     <span class="news-category">Conference</span>
    Taught a short course in Joint Statistical Meetings (JSM): Unlocking the Power of Semiparametric Models: A Practical Tutorial for
-Analyzing Complex Data with Minimum Assumptions: **H Wu**, T Lin, X Tu, JY Liu (2025). Augmented Weighted Generalized Estimating Equations of
+Analyzing Complex Data with Minimum Assumptions: <b>H Wu</b>, T Lin, X Tu, JY Liu (2025). Augmented Weighted Generalized Estimating Equations of
 Longitudinal Data with Monotone Missing.
 
   </div>
