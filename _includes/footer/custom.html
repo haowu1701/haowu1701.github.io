@@ -1,5 +1,23 @@
-<!-- start custom footer snippets -->
+<style>
+/* ===== Change footer background to gold ===== */
+.site-footer,
+.page__footer,
+.mastfoot {
+  background-color: #DCC283 !important;   /* Gold color */
+  color: black !important;                 /* Footer text color */
+}
 
+/* Footer link colors */
+.site-footer a,
+.page__footer a {
+  color: black !important;
+  font-weight: 600;
+}
+.site-footer a:hover,
+.page__footer a:hover {
+  color: #333 !important;
+}
+</style>
 
 
 <!-- Support for MatJax -->
@@ -16,22 +34,6 @@
     await mermaid.run({querySelector:'code.language-mermaid'});
 </script>
 
-<style>
-/* ==== Override footer background (theme: air) ==== */
-.site-footer {
-  background-color: #DCC283 !important;   /* change this color */
-  color: #333 !important;                  /* footer text color */
-  border-top: 1px solid #ddd !important;
-}
-
-/* Optional: nicer link colors inside footer */
-.site-footer a {
-  color: #007bff !important;
-}
-.site-footer a:hover {
-  color: #0056b3 !important;
-}
-</style>
 
 <!-- Site view counter -->
 <div style="text-align:center; margin-top:10px; font-size:0.85em;">
