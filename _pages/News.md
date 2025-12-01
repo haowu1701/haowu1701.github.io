@@ -36,7 +36,7 @@ author_profile: true
 }
 
 .news-category {
-  color: #007bff;
+  color: #CFAE70;
   font-weight: 600;
   margin-right: 8px;
   display: block;        /* NEW: put category on its own line */
@@ -45,14 +45,13 @@ author_profile: true
 
 </style>
 
-# News
 
 <div class="news-container">
 
 <!-- ====== COPY THIS BLOCK FOR EACH NEWS ITEM ====== -->
 
 <div class="news-item">
-  <div class="news-year">2025</div>
+  <div class="news-year">2025.11</div>
   <div class="news-content">
     <span class="news-category">Paper</span>
     Recent paper available on <a href="https://doi.org/10.48550/arXiv.2511.17907" target="_blank">arXiv</a> about 
@@ -63,10 +62,19 @@ author_profile: true
 <!-- ====== END COPY BLOCK ====== -->
 
 <div class="news-item">
-  <div class="news-year">2025</div>
+  <div class="news-year">2025.11</div>
+  <div class="news-content">
+    <span class="news-category">Talk</span>
+    Presented in the Vanderbilt Biostatistics Causal Inference Working Group (2025) on
+    <i>“Doubly Robust Estimators of Quantile Treatment Effects With Semiparametric Cumulative Probability Models.”</i>
+  </div>
+</div>
+
+<div class="news-item">
+  <div class="news-year">2025.8</div>
   <div class="news-content">
     <span class="news-category">Conference</span>
-   Taught a short course in Joint Statistical Meetings (JSM): Unlocking the Power of Semiparametric Models: A Practical Tutorial for
+   Presented a short course in Joint Statistical Meetings (JSM): Unlocking the Power of Semiparametric Models: A Practical Tutorial for
 Analyzing Complex Data with Minimum Assumptions: <b>H Wu</b>, T Lin, X Tu, JY Liu (2025). Augmented Weighted Generalized Estimating Equations of
 Longitudinal Data with Monotone Missing.
 
