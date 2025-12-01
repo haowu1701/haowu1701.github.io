@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: archive
 title: "News"
 permalink: /news/
 author_profile: true
@@ -39,7 +39,10 @@ author_profile: true
   color: #007bff;
   font-weight: 600;
   margin-right: 8px;
+  display: block;        /* NEW: put category on its own line */
+  margin-bottom: 2px;    /* NEW: a little space below the blue label */
 }
+
 </style>
 
 # News
