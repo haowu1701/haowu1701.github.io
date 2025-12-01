@@ -15,18 +15,32 @@
     mermaid.initialize({startOnLoad:true, theme:'default'});
     await mermaid.run({querySelector:'code.language-mermaid'});
 </script>
-<!-- Custom footer additions -->
-<div style="text-align:center; margin-top: 15px;">
-
-  <!-- Visitor Counter -->
-  <img 
-    src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://YOUR_USERNAME.github.io&count_bg=%233D7BF6&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false" 
-    alt="visitor count"/>
-
-  <!-- Read Counter (profile view counter) -->
-  <img 
-    src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square" 
-    alt="profile views"/>
+<!-- ======== Text-only Visitor Counter ======== -->
+<div id="visitor-text" style="text-align:center; margin-top:15px; font-size: 0.9rem; color: #555;">
+  Visitor: <span id="visitor-count">Loading...</span>
 </div>
+
+<script>
+  const visitorApi = "https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://haowu1701.github.io&plain=1";
+
+  fetch(visitorApi)
+    .then(r => r.text())
+    .then(n => { document.getElementById("visitor-count").textContent = n; })
+    .catch(() => { document.getElementById("visitor-count").textContent = "N/A"; });
+</script>
+
+<!-- ======== Text-only GitHub Profile View Count ======== -->
+<div id="read-text" style="text-align:center; font-size: 0.9rem; color: #555;">
+  Profile Views：<span id="read-count">Loading...</span>
+</div>
+
+<script>
+  const readApi = "https://komarev.com/ghpvc/?username=haowu1701&plain=1";
+
+  fetch(readApi)
+    .then(r => r.text())
+    .then(n => { document.getElementById("read-count").textContent = n; })
+    .catch(() => { document.getElementById("read-count").textContent = "N/A"; });
+</script>
 
 <!-- end custom footer snippets -->
