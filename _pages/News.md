@@ -25,7 +25,3 @@ Longitudinal Data with Monotone Missing.
 
 
 
-
-
-A short description of this news item.
-
