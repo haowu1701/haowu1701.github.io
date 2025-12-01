@@ -16,43 +16,56 @@
     await mermaid.run({querySelector:'code.language-mermaid'});
 </script>
 
-<!-- ======== 文字版访问量 + 阅读量 ======== -->
-<div style="text-align:center; margin-top:15px; font-size:0.9rem; color:#555;">
-  Visitors：<span id="total-visits">Loading...</span>
+<!-- ======== 文字版访问量 + 阅读量（CountAPI） ======== -->
+<div id="visit-box" style="text-align:center; margin-top:15px; font-size:0.9rem; color:#555;">
+  Visitors: <span id="total-visits">Loading...</span>
   &nbsp;|&nbsp;
-  Profile Views：<span id="page-views">Loading...</span>
+  Page views: <span id="page-views">Loading...</span>
 </div>
 
-<script>
-  (function() {
-    const base = "https://api.countapi.xyz";
-    const namespace = "haowu1701_github_io";  // 可以理解为这个站点的“命名空间”
+<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function () {
+  console.log("Visitor counter script started.");
 
-    // ---- 1) 网站总访问量 ----
-    fetch(`${base}/hit/${namespace}/total`)
-      .then(res => res.json())
-      .then(data => {
-        document.getElementById("total-visits").textContent = data.value;
-      })
-      .catch(err => {
-        console.error("Total visits error:", err);
-        document.getElementById("total-visits").textContent = "N/A";
-      });
+  const totalSpan = document.getElementById("total-visits");
+  const pageSpan  = document.getElementById("page-views");
 
-    // ---- 2) 本页阅读次数（按 URL 路径区分）----
-    const pageKey = encodeURIComponent(window.location.pathname || "home");
+  // 如果没找到 span，就直接返回（避免报错导致一直 Loading）
+  if (!totalSpan || !pageSpan) {
+    console.error("Counter spans not found in DOM.");
+    return;
+  }
 
-    fetch(`${base}/hit/${namespace}/${pageKey}`)
-      .then(res => res.json())
-      .then(data => {
-        document.getElementById("page-views").textContent = data.value;
-      })
-      .catch(err => {
-        console.error("Page views error:", err);
-        document.getElementById("page-views").textContent = "N/A";
-      });
-  })();
+  const base = "https://api.countapi.xyz";
+  const namespace = "haowu1701_github_io";
+
+  // ---- 1) 网站总访问量 ----
+  fetch(base + "/hit/" + namespace + "/total")
+    .then(function (res) { return res.json(); })
+    .then(function (data) {
+      console.log("Total visits data:", data);
+      totalSpan.innerText = data && data.value !== undefined ? data.value : "N/A";
+    })
+    .catch(function (err) {
+      console.error("Total visits error:", err);
+      totalSpan.innerText = "N/A";
+    });
+
+  // ---- 2) 当前页面访问次数 ----
+  var pageKey = encodeURIComponent(window.location.pathname || "home");
+  fetch(base + "/hit/" + namespace + "/" + pageKey)
+    .then(function (res) { return res.json(); })
+    .then(function (data) {
+      console.log("Page views data:", data);
+      pageSpan.innerText = data && data.value !== undefined ? data.value : "N/A";
+    })
+    .catch(function (err) {
+      console.error("Page views error:", err);
+      pageSpan.innerText = "N/A";
+    });
+});
 </script>
+
 
 
 <!-- end custom footer snippets -->
