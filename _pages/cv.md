@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 📄 **Please download my CV here:**  
-👉 (Updated 2025-12-01)[Download CV (PDF)](/files/CV_HW.pdf)
+👉 (Updated 2025-12-01)[Download CV (PDF)](/files/CV-HW.pdf)
