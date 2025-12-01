@@ -15,32 +15,44 @@
     mermaid.initialize({startOnLoad:true, theme:'default'});
     await mermaid.run({querySelector:'code.language-mermaid'});
 </script>
-<!-- ======== Text-only Visitor Counter ======== -->
-<div id="visitor-text" style="text-align:center; margin-top:15px; font-size: 0.9rem; color: #555;">
-  Visitor: <span id="visitor-count">Loading...</span>
+
+<!-- ======== 文字版访问量 + 阅读量 ======== -->
+<div style="text-align:center; margin-top:15px; font-size:0.9rem; color:#555;">
+  Visitors：<span id="total-visits">Loading...</span>
+  &nbsp;|&nbsp;
+  Profile Views：<span id="page-views">Loading...</span>
 </div>
 
 <script>
-  const visitorApi = "https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://haowu1701.github.io&plain=1";
+  (function() {
+    const base = "https://api.countapi.xyz";
+    const namespace = "haowu1701_github_io";  // 可以理解为这个站点的“命名空间”
 
-  fetch(visitorApi)
-    .then(r => r.text())
-    .then(n => { document.getElementById("visitor-count").textContent = n; })
-    .catch(() => { document.getElementById("visitor-count").textContent = "N/A"; });
+    // ---- 1) 网站总访问量 ----
+    fetch(`${base}/hit/${namespace}/total`)
+      .then(res => res.json())
+      .then(data => {
+        document.getElementById("total-visits").textContent = data.value;
+      })
+      .catch(err => {
+        console.error("Total visits error:", err);
+        document.getElementById("total-visits").textContent = "N/A";
+      });
+
+    // ---- 2) 本页阅读次数（按 URL 路径区分）----
+    const pageKey = encodeURIComponent(window.location.pathname || "home");
+
+    fetch(`${base}/hit/${namespace}/${pageKey}`)
+      .then(res => res.json())
+      .then(data => {
+        document.getElementById("page-views").textContent = data.value;
+      })
+      .catch(err => {
+        console.error("Page views error:", err);
+        document.getElementById("page-views").textContent = "N/A";
+      });
+  })();
 </script>
 
-<!-- ======== Text-only GitHub Profile View Count ======== -->
-<div id="read-text" style="text-align:center; font-size: 0.9rem; color: #555;">
-  Profile Views：<span id="read-count">Loading...</span>
-</div>
-
-<script>
-  const readApi = "https://komarev.com/ghpvc/?username=haowu1701&plain=1";
-
-  fetch(readApi)
-    .then(r => r.text())
-    .then(n => { document.getElementById("read-count").textContent = n; })
-    .catch(() => { document.getElementById("read-count").textContent = "N/A"; });
-</script>
 
 <!-- end custom footer snippets -->
