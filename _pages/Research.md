@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Collboration Research"
-permalink: /research/
+permalink: /Research/
 author_profile: true
 ---
 
