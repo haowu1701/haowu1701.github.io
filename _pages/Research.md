@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "News"
-permalink: /news/
+title: "Collboration Research"
+permalink: /research/
 author_profile: true
 ---
 
