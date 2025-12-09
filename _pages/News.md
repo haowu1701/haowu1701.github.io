@@ -47,7 +47,17 @@ author_profile: true
 
 
 <div class="news-container">
+<!-- ====== COPY THIS BLOCK FOR EACH NEWS ITEM ====== -->
 
+<div class="news-item">
+  <div class="news-year">2025.12</div>
+  <div class="news-content">
+    <span class="news-category">News</span>
+    Hao Wu has passed the PhD qualifying exam and is now officially a PhD candidate in the Department of Biostatistics at Vanderbilt University.
+  </div>
+</div>
+
+<!-- ====== END COPY BLOCK ====== -->
 <!-- ====== COPY THIS BLOCK FOR EACH NEWS ITEM ====== -->
 
 <div class="news-item">
@@ -71,7 +81,7 @@ author_profile: true
 </div>
 
 <div class="news-item">
-  <div class="news-year">2025.8</div>
+  <div class="news-year">2025.08</div>
   <div class="news-content">
     <span class="news-category">Conference</span>
    Presented a short course in Joint Statistical Meetings (JSM): Unlocking the Power of Semiparametric Models: A Practical Tutorial for
