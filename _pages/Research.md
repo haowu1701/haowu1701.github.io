@@ -1,3 +1,10 @@
+---
+layout: archive
+title: "News"
+permalink: /news/
+author_profile: true
+---
+
 ### 📌 Semiparametric Theory
 - Efficient influence functions (EIF)   
 - Asymptotic variance estimation under model misspecification
