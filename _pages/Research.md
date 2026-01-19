@@ -240,7 +240,6 @@ I enjoy collaborating with domain scientists to solve real-world problems in bio
 <span class="anchor" id="project3"></span>
 <section class="project-card">
 
-
   <p class="project-title">
     Healthcare Utilization and Economic Outcomes of Thumb CMC Arthroplasty: Nationwide Claims-Based Analyses
   </p>
@@ -260,14 +259,13 @@ I enjoy collaborating with domain scientists to solve real-world problems in bio
     <li>
       <strong>Revision Thumb CMC Arthroplasty: Risk Factors and Economic Implications</strong><br>
       Identified patient- and treatment-related risk factors for revision surgery using multivariable logistic regression, and quantified the impact of revision procedures on long-term healthcare cost and utilization using GLMMs with propensity score weighting.<br>
-      <li>
-  Published in <em>Plastic and Reconstructive Surgery</em> (2025).
-  <a href="https://journals.lww.com/plasreconsurg/abstract/9900/revision_thumb_cmc_arthroplasty__risk_factors_and.2882.aspx"
-     target="_blank">
-   Full text
-  </a>
+      Published in <em>Plastic and Reconstructive Surgery</em> (2025).
+      <a href="https://journals.lww.com/plasreconsurg/abstract/9900/revision_thumb_cmc_arthroplasty__risk_factors_and.2882.aspx"
+         target="_blank">
+        Full text
+      </a>
     </li>
-
+  </ul>
 
   <p class="project-subtitle"><strong>My role:</strong></p>
   <ul>
@@ -316,12 +314,12 @@ I enjoy collaborating with domain scientists to solve real-world problems in bio
     <li>Developed a concise, psychometrically sound short form of a widely used loneliness scale</li>
     <li>Facilitated efficient assessment in large-scale surveys and clinical research settings</li>
     <li>
-  Published in <em>General Psychiatry</em> (2025).
-  <a href="https://gpsych.bmj.com/content/38/4/e102055"
-     target="_blank">
-    Full text
-  </a>
-</li>
+      Published in <em>General Psychiatry</em> (2025).
+      <a href="https://gpsych.bmj.com/content/38/4/e102055"
+         target="_blank">
+        Full text
+      </a>
+    </li>
   </ul>
-</section>
+
 </section>
