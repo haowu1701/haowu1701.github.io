@@ -8,8 +8,14 @@ author_profile: true
 <style>
   /* Offset anchor scroll position for sticky nav */
 .project-card {
-  scroll-margin-top: 90px; /* 根据你的 nav 高度微调 */
+  scroll-margin-top: 50px; /* 根据你的 nav 高度微调 */
 }
+  /* Tight spacing between subsection title and bullets in project cards */
+.project-card .project-subtitle {
+  margin-top: 6px;
+  margin-bottom: 4px;  /* 关键：压缩与 ul 的距离 */
+}
+
 /* Project title styling */
 .project-title {
   font-size: 1.15rem;      /* 比正文大一点 */
@@ -126,24 +132,24 @@ My research focuses on semiparametric and causal inference methods, with emphasi
   Doubly Robust Estimators of Quantile Treatment Effects with Semiparametric Cumulative Probability Models
 </p>
 
-  <p><strong>Clinical problem addressed:</strong><br>
+  <p class="project-subtitle"><strong>Clinical problem addressed:</strong><br>
   In real-world evidence studies, outcomes are often highly skewed and subject to detection limits, making mean-based causal analyses unstable.
   </p>
 
-  <p><strong>My contribution:</strong></p>
+  <p class="project-subtitle"><strong>My contribution:</strong></p>
   <ul>
     <li>Developed a doubly robust framework for quantile and probability treatment effects using semiparametric cumulative probability models</li>
     <li>Implemented efficient influence function–based estimators with valid variance estimation</li>
   </ul>
 
-  <p><strong>Why this matters:</strong></p>
+  <p class="project-subtitle"><strong>Why this matters:</strong></p>
   <ul>
     <li>Captures treatment effects across the entire outcome distribution, not just the mean</li>
     <li>Provides robust inference under partial model misspecification</li>
     <li>Directly applicable to observational studies with skewed outcomes or detection limits</li>
   </ul>
 
-  <p><strong>Technical skills demonstrated:</strong></p>
+  <p class="project-subtitle"><strong>Technical skills demonstrated:</strong></p>
   <ul>
     <li>Doubly robust estimation · QTE / PTE · Semiparametric modeling</li>
     <li>Monte Carlo simulation and bootstrap inference</li>
@@ -157,24 +163,24 @@ My research focuses on semiparametric and causal inference methods, with emphasi
     Why Double Robustness Does Not Extend to Variance Estimation Under Parametric Nuisance Models
   </p>
 
-  <p><strong>Statistical problem addressed:</strong><br>
+  <p class="project-subtitle"><strong>Statistical problem addressed:</strong><br>
   In practice, influence function–based variance estimators are routinely used alongside doubly robust point estimators. While double robustness guarantees consistency of point estimation under partial model misspecification, no such guarantee exists for variance estimation.
   </p>
 
-  <p><strong>My contribution:</strong></p>
+  <p class="project-subtitle"><strong>My contribution:</strong></p>
   <ul>
     <li>Developed a formal theoretical framework explaining why double robustness does not extend to variance estimation under parametric nuisance models</li>
     <li>Characterized conditions under which commonly used influence function–based variance estimators become inconsistent, even when the corresponding point estimators remain root-\(n\) consistent</li>
     <li>Proposed alternative variance estimation strategies, including joint inference, sample splitting, and cross-fitting, with theoretical guarantees under model misspecification</li>
   </ul>
 
-  <p><strong>Why this matters for applied causal inference:</strong></p>
+  <p class="project-subtitle"><strong>Why this matters:</strong></p>
   <ul>
     <li>Reveals hidden risks in uncertainty quantification for causal analyses in clinical trials and observational studies</li>
     <li>Provides practical guidance for valid inference in real-world settings where working models are inevitably misspecified</li>
   </ul>
 
-  <p><strong>Methods and tools:</strong></p>
+  <p class="project-subtitle"><strong>Methods and tools:</strong></p>
   <ul>
     <li>Semiparametric theory · Influence functions · Doubly robust estimation</li>
     <li>Asymptotic analysis · Monte Carlo simulation</li>
