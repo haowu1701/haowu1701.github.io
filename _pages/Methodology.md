@@ -167,7 +167,7 @@ My research focuses on semiparametric and causal inference methods, with emphasi
 <span class="anchor" id="project2"></span>
 <section class="project-card">
  <p class="project-title">
-    Why Double Robustness Does Not Extend to Variance Estimation Under Parametric Nuisance Models ?
+    Why Double Robustness Does Not Extend to Variance Estimation Under Parametric Nuisance Models?
   </p>
 
   <p class="project-subtitle"><strong>Problem addressed:</strong><br>
@@ -177,13 +177,12 @@ My research focuses on semiparametric and causal inference methods, with emphasi
   <p class="project-subtitle"><strong>My contribution:</strong></p>
   <ul>
     <li>Developed a formal theoretical framework explaining why double robustness does not extend to variance estimation under parametric nuisance models</li>
-    <li>Characterized conditions under which commonly used influence function–based variance estimators become inconsistent, even when the corresponding point estimators remain root-\(n\) consistent</li>
     <li>Proposed alternative variance estimation strategies, including joint inference, sample-splitting-cross-fitting, with theoretical guarantees under model misspecification</li>
   </ul>
 
   <p class="project-subtitle"><strong>Why this matters:</strong></p>
   <ul>
-    <li>Reveals hidden risks in uncertainty quantification for causal analyses in clinical trials and observational studies</li>
+    <li>Reveals hidden risks in uncertainty quantification for causal analyses in observational studies</li>
     <li>Provides practical guidance for valid inference in real-world settings where working models may be misspecified</li>
   </ul>
 
@@ -202,28 +201,27 @@ My research focuses on semiparametric and causal inference methods, with emphasi
   </p>
 
   <p><strong>Clinical and statistical problem addressed:</strong><br>
-  In longitudinal studies, monotone dropout and missing outcomes are common and can severely bias inference. Standard approaches, such as outcome imputation or inverse probability weighting, are often highly sensitive to model misspecification.
+  In longitudinal studies, monotone missing outcomes are common and can severely bias inference. Standard approaches, such as outcome imputation or inverse probability weighting (IPW), are often highly sensitive to model misspecification.
   </p>
 
   <p class="project-subtitle"><strong>My contribution:</strong></p>
   <ul>
     <li>Developed a doubly robust estimator, the Augmented Weighted Generalized Estimating Equation (AWGEE), for longitudinal responses with monotone dropout</li>
-    <li>Unified imputation-based methods and weighted generalized estimating equations within a single estimating equation framework</li>
-    <li>Established that AWGEE remains consistent if either the imputation model or the dropout model is correctly specified, while improving efficiency through augmentation with re-imputed outcomes</li>
+    <li>Unified imputation-based methods and weighted generalized estimating equations within a single estimating equation framework, improving efficiency through augmentation with re-imputed outcomes</li>
     <li>Applied the proposed method to real longitudinal psychiatric data</li>
   </ul>
 
   <p class="project-subtitle"><strong>Why this matters:</strong></p>
   <ul>
-    <li>Enables robust inference for longitudinal treatment effects in the presence of dropout, a pervasive issue in clinical trials and follow-up studies</li>
-    <li>Reduces sensitivity to model misspecification while retaining efficiency, improving the reliability of inference over time</li>
+    <li>Reduces sensitivity to model misspecification. </li>
+    <li>Enables robust inference for longitudinal treatment effects in the presence of dropout.</li>
+    <li>Reveals a common misconception in the application of doubly robust estimators to missing data problems.</li>
   </ul>
 
   <p class="project-subtitle"><strong>Methods and tools:</strong></p>
   <ul>
-    <li>Doubly robust estimation · Generalized estimating equations (GEE)</li>
+    <li>Doubly robust estimation · Weighted Generalized estimating equations (WGEE)</li>
     <li>Longitudinal data analysis · Missing data due to dropout</li>
-    <li>R</li>
   </ul>
 </section>
 
