@@ -267,7 +267,7 @@ I enjoy collaborating with domain scientists to solve real-world problems in bio
    Full text
   </a>
     </li>
-  </ul>
+
 
   <p class="project-subtitle"><strong>My role:</strong></p>
   <ul>
@@ -323,5 +323,5 @@ I enjoy collaborating with domain scientists to solve real-world problems in bio
   </a>
 </li>
   </ul>
-
+</section>
 </section>
