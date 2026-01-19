@@ -189,7 +189,7 @@ My research focuses on semiparametric and causal inference methods, with emphasi
 </section>
 
 
-<section class="project-card" id="project-awgee">
+<section class="project-card" id="project3">
   <p class="project-title">
     A Simple Augmentation of Weighted Generalized Estimating Equations for Doubly Robust Estimation in Longitudinal Data with Missingness
   </p>
