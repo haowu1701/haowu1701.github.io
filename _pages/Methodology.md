@@ -129,8 +129,8 @@ My research focuses on semiparametric and causal inference methods, with emphasi
 
 <nav class="research-top-nav">
   <a href="#project1">Doubly Robust Estimators of QTE/PTE</a>
-  <a href="#project2">Doubly robust varaince estimator</a>
-  <a href="#project3">AWGEE with longitudinal missingness</a>
+  <a href="#project2">Doubly Robust Varaince Estimator</a>
+  <a href="#project3">AWGEE with Longitudinal Missingness</a>
 </nav>
 
 <span class="anchor" id="project1"></span>
