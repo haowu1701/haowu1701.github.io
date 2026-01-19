@@ -169,7 +169,7 @@ I enjoy collaborating with domain scientists to solve real-world problems in bio
     Impact of Regional Surgeon Competition on Breast Reconstruction Use, Cost, and Outcomes After Mastectomy
   </p>
 
-  <p><strong>Research question addressed:</strong><br>
+  <p><strong>Question addressed:</strong><br>
   To evaluate how regional surgeon competition influences access to breast reconstruction, healthcare costs, and patient outcomes following mastectomy.
   </p>
 
@@ -204,7 +204,7 @@ I enjoy collaborating with domain scientists to solve real-world problems in bio
     Factors in Hand Surgery Access for Rheumatoid Arthritis Before vs After the Affordable Care Act
   </p>
 
-  <p><strong>Research question addressed:</strong><br>
+  <p><strong>Question addressed:</strong><br>
   To assess changes in access to hand surgery for patients with rheumatoid arthritis before versus after the implementation of the Affordable Care Act, with a focus on disparities in utilization, timing, and cost.
   </p>
 
