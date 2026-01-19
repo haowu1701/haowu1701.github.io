@@ -15,12 +15,14 @@ My research focuses on semiparametric and causal inference methods, with emphasi
 ### 📌 Causal Inference and Missing Data
 - Doubly robust estimation  
 - Quantile treatment effects (QTE)
-- Longitudinal missingness
+- Probablity treatment effects (PTE)
+
 
 ### 📌 Others
 - Cumulative probability models (CPM)
 - Clustered randomized clinical trials (CRCT)
 - High-dimensional confounding adjustment
+- Longitudinal missingness
 
 
 I am also broadly interested in applying modern causal inference tools to biomedical research, including HIV epidemiology, microbiome studies, and clinical outcome evaluation.
