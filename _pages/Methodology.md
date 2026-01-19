@@ -105,9 +105,7 @@ My research focuses on semiparametric and causal inference methods, with emphasi
 <div class="overview-section">
 <h3>📌 Semiparametric Theory</h3>
 <ul class="overview-list">
-  <li>Efficient influence functions (EIF)</li>
-  <li>Asymptotic variance estimation under model misspecification</li>
-  <li>Double/debiased machine learning (DML)</li>
+  <li>Efficient influence functions (EIF)</li> <li>Asymptotic variance estimation under model misspecification</li> <li>Double/debiased machine learning (DML)</li>
 </ul>
 
 <h3>📌 Causal Inference</h3>
