@@ -221,7 +221,7 @@ My research focuses on semiparametric and causal inference methods, with emphasi
 
   <p class="project-subtitle"><strong>Technical skills demonstrated:</strong></p>
   <ul>
-    <li>Doubly robust estimation · Longitudinal data analysis · Missing data due to dropout· Weighted Generalized estimating equations (WGEE)</li>
+    <li>Doubly robust estimation · Longitudinal data analysis · Missing data due to dropout· Weighted Generalized estimating equations (WGEE) · Monte Carlo simulation · Real-data analysis</li>
   </ul>
 </section>
 
