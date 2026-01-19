@@ -15,6 +15,12 @@ toc: false
   visibility: hidden;
 }
 
+/* Divider between sub-projects inside one card */
+.project-divider {
+  border: none;
+  border-top: 1px solid #e0e0e0;
+  margin: 18px 0;
+}
 
   /* Tight spacing between subsection title and bullets in project cards */
 .project-card .project-subtitle {
@@ -181,6 +187,8 @@ I enjoy collaborating with domain scientists to solve real-world problems in bio
     <li>Highlighted economic and utilization consequences of surgeon market concentration</li>
     <li>Published in the area of observational health policy studies (2024)</li>
   </ul>
+  
+<hr class="project-divider">
 
  <p class="project-title">
     Factors in Hand Surgery Access for Rheumatoid Arthritis Before vs After the Affordable Care Act
