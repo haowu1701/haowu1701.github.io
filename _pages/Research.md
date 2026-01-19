@@ -5,7 +5,7 @@ permalink: /Research/
 author_profile: true
 toc: false
 ---
-
+I enjoy collaborating with domain scientists to solve real-world problems in biomedical data using modern statistical methods. Below are selected collaboration projects I have been involved in since 2023.
 
 <style>
 /* Top local navigation bar (sticky) */
