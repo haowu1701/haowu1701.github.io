@@ -116,9 +116,9 @@ I enjoy collaborating with domain scientists to solve real-world problems in bio
 
 <!-- Local navigation bar at the top (sticky) -->
 <nav class="research-top-nav">
-  <a href="#project1">Longitudinal Randomized Clinical Trials</a>
-  <a href="#project2">Observational Health Policy Studies</a>
-  <a href="#project3">Longitudinal Health Economics & Utilization</a>
+  <a href="#project1">Randomized Clinical Trials</a>
+  <a href="#project2">Observational Health Policy & Economics & Utilization Studies</a>
+  <a href="#project3">Observational Clinical Outcomes</a>
   <a href="#project4">Mental Health</a>
 </nav>
 
@@ -233,10 +233,8 @@ I enjoy collaborating with domain scientists to solve real-world problems in bio
   </a>
 </li>
   </ul>
-</section>
-
-<span class="anchor" id="project3"></span>
-<section class="project-card">
+  
+<hr class="project-divider">
 
   <p class="project-title">
     Healthcare Utilization and Economic Outcomes of Thumb CMC Arthroplasty: Nationwide Claims-Based Analyses
@@ -274,17 +272,69 @@ I enjoy collaborating with domain scientists to solve real-world problems in bio
 
 </section>
 
+<span class="anchor" id="project3"></span>
+<section class="project-card">
+
+  <p class="project-title">
+    Outcomes of Adults with COPD Hospitalized with Influenza
+  </p>
+
+  <p><strong>Question addressed:</strong><br>
+  To evaluate the risk of severe in-hospital outcomes among adults with pre-existing chronic obstructive pulmonary disease (COPD) hospitalized with laboratory-confirmed influenza.
+  </p>
+
+  <p class="project-subtitle"><strong>Study design and data:</strong></p>
+  <ul>
+    <li>Population-based influenza hospitalization surveillance (2014–2024)</li>
+    <li>Adults hospitalized with laboratory-confirmed influenza</li>
+    <li>Ordinal severe outcomes: ICU admission, invasive mechanical ventilation, or in-hospital death</li>
+  </ul>
+
+  <p class="project-subtitle"><strong>My role:</strong></p>
+  <ul>
+    <li>Conducted outcome analyses using proportional odds models for ordinal severity outcomes</li>
+    <li>Performed sensitivity analyses to assess robustness of findings across model specifications</li>
+  </ul>
+
+  <p class="project-subtitle"><strong>Impact and outcome:</strong></p>
+  <ul>
+    <li>Quantified the increased risk of severe hospital outcomes among influenza patients with pre-existing COPD</li>
+    <li>Provided population-level evidence to inform clinical risk stratification and inpatient management</li>
+    <li>Manuscript completed</li>
+  </ul>
+
+</section>
 
 <span class="anchor" id="project4"></span>
 <section class="project-card">
 
   <p class="project-title">
-    An Effective Short Form of the UCLA Loneliness Scale: Item Response Theory and Network Psychometrics
+    Contributions of Worry and Social Anxiety to Paranoia
   </p>
 
   <p><strong>Question addressed:</strong><br>
-  To develop and validate a shortened version of the UCLA Loneliness Scale that preserves psychometric reliability and construct validity while reducing respondent burden.
+  To examine the cross-sectional and longitudinal contributions of worry and social anxiety to paranoia in clinical and non-clinical populations.
   </p>
 
+  <p class="project-subtitle"><strong>Study design and data:</strong></p>
+  <ul>
+    <li>Adults with schizophrenia spectrum disorders (SSDs) and non-clinical comparison participants</li>
+    <li>Cross-sectional and longitudinal self-report assessments of worry, social anxiety, and paranoia</li>
+  </ul>
+
+  <p class="project-subtitle"><strong>My role:</strong></p>
+  <ul>
+    <li>Conducted longitudinal analyses using generalized estimating equations (GEE) to account for within-subject correlation</li>
+    <li>Quantified effect sizes and variance explained using hierarchical regression with bootstrapping</li>
+    <li>Performed extensive sensitivity analyses across symptom subscales and covariate adjustment strategies</li>
+  </ul>
+
+  <p class="project-subtitle"><strong>Impact and outcome:</strong></p>
+  <ul>
+    <li>Demonstrated independent and additive contributions of worry and social anxiety to paranoia across populations</li>
+    <li>Provided longitudinal evidence supporting cognitive-affective targets for intervention</li>
+    <li>Manuscript completed</li>
+  </ul>
 
 </section>
+
