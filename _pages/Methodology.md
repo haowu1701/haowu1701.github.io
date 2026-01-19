@@ -124,7 +124,7 @@ My research focuses on semiparametric and causal inference methods, with emphasi
 </ul>
 </div>
 
- <strong> Below are three completed methodology projects from my PhD to date.</strong><br>
+ <strong> Below are 3 completed methodology projects from my PhD to date.</strong><br>
 <!-- Sticky nav placed AFTER the sentence -->
 
 <nav class="research-top-nav">
