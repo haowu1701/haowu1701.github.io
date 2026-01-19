@@ -120,7 +120,7 @@ My research focuses on semiparametric and causal inference methods, with emphasi
 
 <h3>📌 Other Topics</h3>
 <ul class="overview-list">
-  <li>Cumulative probability models · Longitudinal missingness</li>
+  <li>Semiparametric cumulative probability models · Longitudinal missingness</li>
 </ul>
 </div>
 
