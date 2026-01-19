@@ -139,7 +139,7 @@ My research focuses on semiparametric and causal inference methods, with emphasi
   Doubly Robust Estimators of Quantile Treatment Effects with Semiparametric Cumulative Probability Models
 </p>
 
-  <p class="project-subtitle"><strong>Clinical problem addressed:</strong><br>
+  <p class="project-subtitle"><strong>Problem addressed:</strong><br>
   In real-world evidence studies, outcomes are often highly skewed and subject to detection limits, making mean-based causal analyses unstable.
   </p>
 
@@ -167,10 +167,10 @@ My research focuses on semiparametric and causal inference methods, with emphasi
 <span class="anchor" id="project2"></span>
 <section class="project-card">
  <p class="project-title">
-    Why Double Robustness Does Not Extend to Variance Estimation Under Parametric Nuisance Models
+    Why Double Robustness Does Not Extend to Variance Estimation Under Parametric Nuisance Models ?
   </p>
 
-  <p class="project-subtitle"><strong>Statistical problem addressed:</strong><br>
+  <p class="project-subtitle"><strong>Problem addressed:</strong><br>
   In practice, influence function–based variance estimators are routinely used alongside doubly robust point estimators. While double robustness guarantees consistency of point estimation under partial model misspecification, no such guarantee exists for variance estimation.
   </p>
 
@@ -178,20 +178,20 @@ My research focuses on semiparametric and causal inference methods, with emphasi
   <ul>
     <li>Developed a formal theoretical framework explaining why double robustness does not extend to variance estimation under parametric nuisance models</li>
     <li>Characterized conditions under which commonly used influence function–based variance estimators become inconsistent, even when the corresponding point estimators remain root-\(n\) consistent</li>
-    <li>Proposed alternative variance estimation strategies, including joint inference, sample splitting, and cross-fitting, with theoretical guarantees under model misspecification</li>
+    <li>Proposed alternative variance estimation strategies, including joint inference, sample-splitting-cross-fitting, with theoretical guarantees under model misspecification</li>
   </ul>
 
   <p class="project-subtitle"><strong>Why this matters:</strong></p>
   <ul>
     <li>Reveals hidden risks in uncertainty quantification for causal analyses in clinical trials and observational studies</li>
-    <li>Provides practical guidance for valid inference in real-world settings where working models are inevitably misspecified</li>
+    <li>Provides practical guidance for valid inference in real-world settings where working models may be misspecified</li>
   </ul>
 
-  <p class="project-subtitle"><strong>Methods and tools:</strong></p>
+  <p class="project-subtitle"><strong>Technical skills demonstrated:</strong></p>
   <ul>
     <li>Semiparametric theory · Influence functions · Doubly robust estimation</li>
-    <li>Asymptotic analysis · Monte Carlo simulation</li>
-    <li>Real-data analysis · R</li>
+    <li>Asymptotic analysis </li>
+    <li>Monte Carlo simulation · Real-data analysis</li>
   </ul>
 </section>
 
