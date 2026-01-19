@@ -150,3 +150,112 @@ I enjoy collaborating with domain scientists to solve real-world problems in bio
 
 </section>
 
+<span class="anchor" id="project2"></span>
+<section class="project-card">
+
+  <p class="project-title">
+    Factors in Hand Surgery Access for Rheumatoid Arthritis Before vs After the Affordable Care Act
+  </p>
+
+  <p><strong>Research question addressed:</strong><br>
+  To assess changes in access to hand surgery for patients with rheumatoid arthritis before versus after the implementation of the Affordable Care Act, with a focus on disparities in utilization, timing, and cost.
+  </p>
+
+  <p class="project-subtitle"><strong>Study design and data:</strong></p>
+  <ul>
+    <li>Cross-sectional observational study using national surgical data (2009–2020)</li>
+    <li>Primary outcomes included time to surgery, surgical incidence, and healthcare costs</li>
+  </ul>
+
+  <p class="project-subtitle"><strong>My role:</strong></p>
+  <ul>
+    <li>Conducted statistical analyses comparing pre- and post-ACA cohorts</li>
+    <li>Applied multivariable regression and piecewise linear regression to evaluate changes in access over time</li>
+    <li>Assessed disparities by insurance status and urbanicity</li>
+    <li>Contributed to interpretation of access and cost outcomes</li>
+  </ul>
+
+  <p class="project-subtitle"><strong>Impact and outcome:</strong></p>
+  <ul>
+    <li>Quantified policy-associated changes in surgical access for patients with rheumatoid arthritis</li>
+    <li>Identified persistent disparities in access related to insurance coverage and geographic factors</li>
+    <li>Published in <em>JAMA Surgery</em> (2024)</li>
+  </ul>
+
+</section>
+
+<span class="anchor" id="project3"></span>
+<section class="project-card">
+
+  <p class="project-title">
+    Healthcare Utilization and Economic Outcomes of Thumb CMC Arthroplasty: Nationwide Claims-Based Analyses
+  </p>
+
+  <p><strong>Overview:</strong><br>
+  A series of observational studies using nationwide insurance claims data to evaluate treatment strategies, revision risk, and long-term healthcare utilization and costs associated with thumb carpometacarpal (CMC) arthroplasty.
+  </p>
+
+  <p class="project-subtitle"><strong>Study components:</strong></p>
+  <ul>
+    <li>
+      <strong>Surgical vs Nonoperative Management of Thumb CMC Arthritis</strong><br>
+      Compared long-term healthcare costs and utilization between operative and nonoperative treatments using generalized linear mixed-effects models with propensity score matching.<br>
+      Published in <em>The Journal of Hand Surgery (Asian-Pacific Volume)</em> (2024).
+    </li>
+
+    <li>
+      <strong>Revision Thumb CMC Arthroplasty: Risk Factors and Economic Implications</strong><br>
+      Identified patient- and treatment-related risk factors for revision surgery using multivariable logistic regression, and quantified the impact of revision procedures on long-term healthcare cost and utilization using GLMMs with propensity score weighting.<br>
+      Published in <em>Plastic and Reconstructive Surgery</em> (2025).
+    </li>
+  </ul>
+
+  <p class="project-subtitle"><strong>My role:</strong></p>
+  <ul>
+    <li>Designed and conducted claims-based observational analyses across multiple related studies</li>
+    <li>Applied causal adjustment techniques, including propensity score matching and weighting</li>
+    <li>Implemented generalized linear mixed-effects models for longitudinal cost and utilization outcomes</li>
+    <li>Collaborated with clinicians on interpretation of economic and surgical outcomes</li>
+  </ul>
+
+  <p class="project-subtitle"><strong>Impact:</strong></p>
+  <ul>
+    <li>Provided comprehensive evidence on long-term economic consequences of thumb CMC treatment strategies</li>
+    <li>Informed clinical decision-making and health policy considerations regarding surgical management and revision risk</li>
+    <li>Demonstrated the value of real-world evidence for evaluating surgical outcomes at the population level</li>
+  </ul>
+
+</section>
+
+<span class="anchor" id="project2"></span>
+<section class="project-card">
+
+  <p class="project-title">
+    Impact of Regional Surgeon Competition on Breast Reconstruction Use, Cost, and Outcomes After Mastectomy
+  </p>
+
+  <p><strong>Research question addressed:</strong><br>
+  To evaluate how regional surgeon competition influences access to breast reconstruction, healthcare costs, and patient outcomes following mastectomy.
+  </p>
+
+  <p class="project-subtitle"><strong>Study design and data:</strong></p>
+  <ul>
+    <li>Cross-sectional observational study using MarketScan insurance claims data (2009–2020)</li>
+    <li>Market-level surgeon competition quantified using the Herfindahl–Hirschman Index (HHI)</li>
+  </ul>
+
+  <p class="project-subtitle"><strong>My role:</strong></p>
+  <ul>
+    <li>Conducted multivariable regression analyses to assess associations between market competition, utilization, and healthcare costs</li>
+    <li>Evaluated disparities in access and outcomes across regions with varying levels of surgeon competition</li>
+    <li>Contributed to interpretation of policy-relevant findings related to market structure and patient care</li>
+  </ul>
+
+  <p class="project-subtitle"><strong>Impact and outcome:</strong></p>
+  <ul>
+    <li>Provided evidence on how regional market competition shapes access to reconstructive surgery after mastectomy</li>
+    <li>Highlighted economic and utilization consequences of surgeon market concentration</li>
+    <li>Published in the area of observational health policy studies (2024)</li>
+  </ul>
+
+</section>
