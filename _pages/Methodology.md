@@ -218,10 +218,9 @@ My research focuses on semiparametric and causal inference methods, with emphasi
     <li>Reveals a common misconception in the application of doubly robust estimators to missing data problems.</li>
   </ul>
 
-  <p class="project-subtitle"><strong>Methods and tools:</strong></p>
+  <p class="project-subtitle"><strong>Technical skills demonstrated:</strong></p>
   <ul>
-    <li>Doubly robust estimation · Weighted Generalized estimating equations (WGEE)</li>
-    <li>Longitudinal data analysis · Missing data due to dropout</li>
+    <li>Doubly robust estimation · Longitudinal data analysis · Missing data due to dropout· Weighted Generalized estimating equations (WGEE)</li>
   </ul>
 </section>
 
