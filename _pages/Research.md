@@ -153,7 +153,36 @@ I enjoy collaborating with domain scientists to solve real-world problems in bio
 <span class="anchor" id="project2"></span>
 <section class="project-card">
 
+
   <p class="project-title">
+    Impact of Regional Surgeon Competition on Breast Reconstruction Use, Cost, and Outcomes After Mastectomy
+  </p>
+
+  <p><strong>Research question addressed:</strong><br>
+  To evaluate how regional surgeon competition influences access to breast reconstruction, healthcare costs, and patient outcomes following mastectomy.
+  </p>
+
+  <p class="project-subtitle"><strong>Study design and data:</strong></p>
+  <ul>
+    <li>Cross-sectional observational study using MarketScan insurance claims data (2009–2020)</li>
+    <li>Market-level surgeon competition quantified using the Herfindahl–Hirschman Index (HHI)</li>
+  </ul>
+
+  <p class="project-subtitle"><strong>My role:</strong></p>
+  <ul>
+    <li>Conducted multivariable regression analyses to assess associations between market competition, utilization, and healthcare costs</li>
+    <li>Evaluated disparities in access and outcomes across regions with varying levels of surgeon competition</li>
+    <li>Contributed to interpretation of policy-relevant findings related to market structure and patient care</li>
+  </ul>
+
+  <p class="project-subtitle"><strong>Impact and outcome:</strong></p>
+  <ul>
+    <li>Provided evidence on how regional market competition shapes access to reconstructive surgery after mastectomy</li>
+    <li>Highlighted economic and utilization consequences of surgeon market concentration</li>
+    <li>Published in the area of observational health policy studies (2024)</li>
+  </ul>
+
+ <p class="project-title">
     Factors in Hand Surgery Access for Rheumatoid Arthritis Before vs After the Affordable Care Act
   </p>
 
@@ -181,36 +210,11 @@ I enjoy collaborating with domain scientists to solve real-world problems in bio
     <li>Identified persistent disparities in access related to insurance coverage and geographic factors</li>
     <li>Published in <em>JAMA Surgery</em> (2024)</li>
   </ul>
-
-
-  <p class="project-title">
-    Impact of Regional Surgeon Competition on Breast Reconstruction Use, Cost, and Outcomes After Mastectomy
-  </p>
-
-  <p><strong>Research question addressed:</strong><br>
-  To evaluate how regional surgeon competition influences access to breast reconstruction, healthcare costs, and patient outcomes following mastectomy.
-  </p>
-
-  <p class="project-subtitle"><strong>Study design and data:</strong></p>
-  <ul>
-    <li>Cross-sectional observational study using MarketScan insurance claims data (2009–2020)</li>
-    <li>Market-level surgeon competition quantified using the Herfindahl–Hirschman Index (HHI)</li>
-  </ul>
-
-  <p class="project-subtitle"><strong>My role:</strong></p>
-  <ul>
-    <li>Conducted multivariable regression analyses to assess associations between market competition, utilization, and healthcare costs</li>
-    <li>Evaluated disparities in access and outcomes across regions with varying levels of surgeon competition</li>
-    <li>Contributed to interpretation of policy-relevant findings related to market structure and patient care</li>
-  </ul>
-
-  <p class="project-subtitle"><strong>Impact and outcome:</strong></p>
-  <ul>
 </section>
 
-    
 <span class="anchor" id="project3"></span>
 <section class="project-card">
+
 
   <p class="project-title">
     Healthcare Utilization and Economic Outcomes of Thumb CMC Arthroplasty: Nationwide Claims-Based Analyses
@@ -248,12 +252,6 @@ I enjoy collaborating with domain scientists to solve real-world problems in bio
     <li>Provided comprehensive evidence on long-term economic consequences of thumb CMC treatment strategies</li>
     <li>Informed clinical decision-making and health policy considerations regarding surgical management and revision risk</li>
     <li>Demonstrated the value of real-world evidence for evaluating surgical outcomes at the population level</li>
-  </ul>
-
-
-    <li>Provided evidence on how regional market competition shapes access to reconstructive surgery after mastectomy</li>
-    <li>Highlighted economic and utilization consequences of surgeon market concentration</li>
-    <li>Published in the area of observational health policy studies (2024)</li>
   </ul>
 
 </section>
