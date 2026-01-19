@@ -208,6 +208,7 @@ My research focuses on semiparametric and causal inference methods, with emphasi
   <ul>
     <li>Developed a doubly robust estimator, the Augmented Weighted Generalized Estimating Equation (AWGEE), for longitudinal responses with monotone dropout</li>
     <li>Unified imputation-based methods and WGEE within a single estimating equation framework, improving efficiency through augmentation with re-imputed outcomes</li>
+    <li>Improved efficiency through augmentation with re-imputed outcomes</li>
     <li>Applied the proposed method to real longitudinal psychiatric data</li>
   </ul>
 
