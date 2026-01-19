@@ -8,7 +8,7 @@ author_profile: true
 <style>
   /* Offset anchor scroll position for sticky nav */
 .project-card {
-  scroll-margin-top: 210px; /* 根据你的 nav 高度微调 */
+  scroll-margin-top: 90px; /* 根据你的 nav 高度微调 */
 }
 /* Project title styling */
 .project-title {
@@ -117,7 +117,7 @@ My research focuses on semiparametric and causal inference methods, with emphasi
 <!-- Sticky nav placed AFTER the sentence -->
 <nav class="research-top-nav">
   <a href="#project1">Doubly Robust Estimators of QTE/PTE</a>
-  <a href="#causal">Causal Inference</a>
+  <a href="#project2">Doubly robust varaince estimator</a>
   <a href="#other">Other Topics</a>
 </nav>
 
@@ -148,6 +148,37 @@ My research focuses on semiparametric and causal inference methods, with emphasi
     <li>Doubly robust estimation · QTE / PTE · Semiparametric modeling</li>
     <li>Monte Carlo simulation and bootstrap inference</li>
     <li>Analysis of real biomedical data (HIV studies)</li>
+  </ul>
+</section>
+
+
+<section class="project-card" id="project2">
+ <p class="project-title">
+    Why Double Robustness Does Not Extend to Variance Estimation Under Parametric Nuisance Models
+  </p>
+
+  <p><strong>Statistical problem addressed:</strong><br>
+  In practice, influence function–based variance estimators are routinely used alongside doubly robust point estimators. While double robustness guarantees consistency of point estimation under partial model misspecification, no such guarantee exists for variance estimation.
+  </p>
+
+  <p><strong>My contribution:</strong></p>
+  <ul>
+    <li>Developed a formal theoretical framework explaining why double robustness does not extend to variance estimation under parametric nuisance models</li>
+    <li>Characterized conditions under which commonly used influence function–based variance estimators become inconsistent, even when the corresponding point estimators remain root-\(n\) consistent</li>
+    <li>Proposed alternative variance estimation strategies, including joint inference, sample splitting, and cross-fitting, with theoretical guarantees under model misspecification</li>
+  </ul>
+
+  <p><strong>Why this matters for applied causal inference:</strong></p>
+  <ul>
+    <li>Reveals hidden risks in uncertainty quantification for causal analyses in clinical trials and observational studies</li>
+    <li>Provides practical guidance for valid inference in real-world settings where working models are inevitably misspecified</li>
+  </ul>
+
+  <p><strong>Methods and tools:</strong></p>
+  <ul>
+    <li>Semiparametric theory · Influence functions · Doubly robust estimation</li>
+    <li>Asymptotic analysis · Monte Carlo simulation</li>
+    <li>Real-data analysis · R</li>
   </ul>
 </section>
 
