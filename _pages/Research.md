@@ -154,7 +154,7 @@ I enjoy collaborating with domain scientists to solve real-world problems in bio
  <li>
   Published in <em>JAMA Network Open</em> (2023).
   <a href="https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2801347" target="_blank">
-   Paper
+   Full text
   </a>
 </li>
   </ul>
@@ -190,7 +190,13 @@ I enjoy collaborating with domain scientists to solve real-world problems in bio
   <ul>
     <li>Provided evidence on how regional market competition shapes access to reconstructive surgery after mastectomy</li>
     <li>Highlighted economic and utilization consequences of surgeon market concentration</li>
-    <li>Published in the area of observational health policy studies (2024)</li>
+  <li>
+  Published in <em>Plastic and Reconstructive Surgery</em> (2025).
+  <a href="https://journals.lww.com/plasreconsurg/fulltext/2025/03000/impact_of_regional_surgeon_competition_on_use,.8.aspx"
+     target="_blank">
+    Full text
+  </a>
+</li>
   </ul>
   
 <hr class="project-divider">
@@ -221,7 +227,13 @@ I enjoy collaborating with domain scientists to solve real-world problems in bio
   <ul>
     <li>Quantified policy-associated changes in surgical access for patients with rheumatoid arthritis</li>
     <li>Identified persistent disparities in access related to insurance coverage and geographic factors</li>
-    <li>Published in <em>JAMA Surgery</em> (2024)</li>
+   <li>
+  Published in <em>JAMA Surgery</em> (2024).
+  <a href="https://jamanetwork.com/journals/jamasurgery/fullarticle/2814271"
+     target="_blank">
+    Full text
+  </a>
+</li>
   </ul>
 </section>
 
@@ -248,7 +260,12 @@ I enjoy collaborating with domain scientists to solve real-world problems in bio
     <li>
       <strong>Revision Thumb CMC Arthroplasty: Risk Factors and Economic Implications</strong><br>
       Identified patient- and treatment-related risk factors for revision surgery using multivariable logistic regression, and quantified the impact of revision procedures on long-term healthcare cost and utilization using GLMMs with propensity score weighting.<br>
-      Published in <em>Plastic and Reconstructive Surgery</em> (2025).
+      <li>
+  Published in <em>Plastic and Reconstructive Surgery</em> (2025).
+  <a href="https://journals.lww.com/plasreconsurg/abstract/9900/revision_thumb_cmc_arthroplasty__risk_factors_and.2882.aspx"
+     target="_blank">
+   Full text
+  </a>
     </li>
   </ul>
 
@@ -298,7 +315,13 @@ I enjoy collaborating with domain scientists to solve real-world problems in bio
   <ul>
     <li>Developed a concise, psychometrically sound short form of a widely used loneliness scale</li>
     <li>Facilitated efficient assessment in large-scale surveys and clinical research settings</li>
-    <li>Published in <em>General Psychiatry</em> (2025)</li>
+    <li>
+  Published in <em>General Psychiatry</em> (2025).
+  <a href="https://gpsych.bmj.com/content/38/4/e102055"
+     target="_blank">
+    Full text
+  </a>
+</li>
   </ul>
 
 </section>
