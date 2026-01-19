@@ -250,10 +250,9 @@ I enjoy collaborating with domain scientists to solve real-world problems in bio
   <ul>
     <li>
       <strong>Surgical vs Nonoperative Management of Thumb CMC Arthritis</strong><br>
-      Compared long-term healthcare costs and utilization between operative and nonoperative treatments using generalized linear mixed-effects models with propensity score matching.<br>
+      Compared long-term healthcare costs and utilization between operative and nonoperative treatments using generalized linear mixed-effects models with propensity score weighting.<br>
       Published in <em>The Journal of Hand Surgery (Asian-Pacific Volume)</em> (2024).
     </li>
-
     <li>
       <strong>Revision Thumb CMC Arthroplasty: Risk Factors and Economic Implications</strong><br>
       Identified patient- and treatment-related risk factors for revision surgery using multivariable logistic regression, and quantified the impact of revision procedures on long-term healthcare cost and utilization using GLMMs with propensity score weighting.<br>
@@ -267,18 +266,11 @@ I enjoy collaborating with domain scientists to solve real-world problems in bio
 
   <p class="project-subtitle"><strong>My role:</strong></p>
   <ul>
-    <li>Designed and conducted claims-based observational analyses across multiple related studies</li>
-    <li>Applied causal adjustment techniques, including propensity score matching and weighting</li>
+    <li>Applied causal inference methods in longitudinal obsevational study</li>
     <li>Implemented generalized linear mixed-effects models for longitudinal cost and utilization outcomes</li>
     <li>Collaborated with clinicians on interpretation of economic and surgical outcomes</li>
   </ul>
 
-  <p class="project-subtitle"><strong>Impact:</strong></p>
-  <ul>
-    <li>Provided comprehensive evidence on long-term economic consequences of thumb CMC treatment strategies</li>
-    <li>Informed clinical decision-making and health policy considerations regarding surgical management and revision risk</li>
-    <li>Demonstrated the value of real-world evidence for evaluating surgical outcomes at the population level</li>
-  </ul>
 
 </section>
 
