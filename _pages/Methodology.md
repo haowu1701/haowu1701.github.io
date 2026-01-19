@@ -31,22 +31,27 @@ author_profile: true
   line-height: 1.35;
 }
 
-  /* Compact spacing for overview section */
-.overview-section h3 {
-  margin-top: 8px;      /* h3 与上一块的距离 */
-  margin-bottom: 4px;   /* h3 与 ul 的距离 */
+/* Indented overview section */
+.overview-section {
+  margin-left: 1.5em;   /* 控制“右缩进几格”，可调 */
 }
 
-.overview-section ul {
+/* Overview titles: not bold */
+.overview-section h3 {
+  font-weight: 400;     /* normal，不加粗 */
+  margin-top: 6px;
+  margin-bottom: 4px;
+}
+
+/* Keep overview bullets compact */
+.overview-list {
   margin-top: 0;
-  margin-bottom: 8px;   /* 每一组 overview 的段间距 */
+  margin-bottom: 8px;
 }
 
 .overview-list li {
-  margin-bottom: 2px;
   line-height: 1.25;
 }
-
 /* Top local navigation bar (sticky) */
 .research-top-nav {
   position: sticky;
