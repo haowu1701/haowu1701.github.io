@@ -130,7 +130,7 @@ I enjoy collaborating with domain scientists to solve real-world problems in bio
     Comparison of Distal Radius Fracture Outcomes in Older Adults: Casting vs Surgery and Chronologic vs Physiologic Age
   </p>
 
-  <p><strong>Clinical question addressed:</strong><br>
+  <p><strong>Question addressed:</strong><br>
   To evaluate longitudinal functional outcomes following casting versus surgical management of distal radius fractures in older adults, and to assess whether physiologic age better predicts recovery trajectories than chronologic age.
   </p>
 
