@@ -86,7 +86,8 @@ My research focuses on semiparametric and causal inference methods, with emphasi
     <li>Clustered randomized clinical trials (CRCT)</li>
     <li>Longitudinal missingness</li>
   </ul>
-  
+
+  Below are three completed methodology projects from my PhD to date.
 <!-- Sticky nav placed AFTER the sentence -->
 <nav class="research-top-nav">
   <a href="#project1">Doubly Robust Estimators of QTE/PTE</a>
