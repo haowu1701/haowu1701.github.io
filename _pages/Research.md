@@ -184,6 +184,32 @@ I enjoy collaborating with domain scientists to solve real-world problems in bio
 
 </section>
 
+<section class="project-card">
+
+  <p class="project-title">
+    Impact of Regional Surgeon Competition on Breast Reconstruction Use, Cost, and Outcomes After Mastectomy
+  </p>
+
+  <p><strong>Research question addressed:</strong><br>
+  To evaluate how regional surgeon competition influences access to breast reconstruction, healthcare costs, and patient outcomes following mastectomy.
+  </p>
+
+  <p class="project-subtitle"><strong>Study design and data:</strong></p>
+  <ul>
+    <li>Cross-sectional observational study using MarketScan insurance claims data (2009–2020)</li>
+    <li>Market-level surgeon competition quantified using the Herfindahl–Hirschman Index (HHI)</li>
+  </ul>
+
+  <p class="project-subtitle"><strong>My role:</strong></p>
+  <ul>
+    <li>Conducted multivariable regression analyses to assess associations between market competition, utilization, and healthcare costs</li>
+    <li>Evaluated disparities in access and outcomes across regions with varying levels of surgeon competition</li>
+    <li>Contributed to interpretation of policy-relevant findings related to market structure and patient care</li>
+  </ul>
+
+  <p class="project-subtitle"><strong>Impact and outcome:</strong></p>
+  <ul>
+    
 <span class="anchor" id="project3"></span>
 <section class="project-card">
 
@@ -227,32 +253,7 @@ I enjoy collaborating with domain scientists to solve real-world problems in bio
 
 </section>
 
-<span class="anchor" id="project2"></span>
-<section class="project-card">
 
-  <p class="project-title">
-    Impact of Regional Surgeon Competition on Breast Reconstruction Use, Cost, and Outcomes After Mastectomy
-  </p>
-
-  <p><strong>Research question addressed:</strong><br>
-  To evaluate how regional surgeon competition influences access to breast reconstruction, healthcare costs, and patient outcomes following mastectomy.
-  </p>
-
-  <p class="project-subtitle"><strong>Study design and data:</strong></p>
-  <ul>
-    <li>Cross-sectional observational study using MarketScan insurance claims data (2009–2020)</li>
-    <li>Market-level surgeon competition quantified using the Herfindahl–Hirschman Index (HHI)</li>
-  </ul>
-
-  <p class="project-subtitle"><strong>My role:</strong></p>
-  <ul>
-    <li>Conducted multivariable regression analyses to assess associations between market competition, utilization, and healthcare costs</li>
-    <li>Evaluated disparities in access and outcomes across regions with varying levels of surgeon competition</li>
-    <li>Contributed to interpretation of policy-relevant findings related to market structure and patient care</li>
-  </ul>
-
-  <p class="project-subtitle"><strong>Impact and outcome:</strong></p>
-  <ul>
     <li>Provided evidence on how regional market competition shapes access to reconstructive surgery after mastectomy</li>
     <li>Highlighted economic and utilization consequences of surgeon market concentration</li>
     <li>Published in the area of observational health policy studies (2024)</li>
