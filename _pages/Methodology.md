@@ -135,14 +135,14 @@ author_profile: true
 </nav>
 
 ---
-My research focuses on semiparametric and causal inference methods, with emphasis on efficient influence functions, doubly robust estimation, and machine learning–assisted approaches. I study quantile-based causal estimands and robust inference under model misspecification and missing data.
+My research focuses on semiparametric and causal inference methods, with emphasis on the following areas:
 
 ### 📌 Semiparametric Theory
 - Efficient influence functions (EIF)   
 - Asymptotic variance estimation under model misspecification
 - Double/debiased machine learning (DML)
 
-### 📌 Causal Inference and Missing Data
+### 📌 Causal Inference
 - Doubly robust estimation  
 - Quantile treatment effects (QTE)
 - Probablity treatment effects (PTE)
@@ -155,5 +155,4 @@ My research focuses on semiparametric and causal inference methods, with emphasi
 - Longitudinal missingness
 
 
-I am also broadly interested in applying modern causal inference tools to biomedical research, including HIV epidemiology, microbiome studies, and clinical outcome evaluation.
 
