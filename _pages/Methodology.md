@@ -6,6 +6,11 @@ author_profile: true
 ---
 
 <style>
+  /* Offset anchor scroll position for sticky nav */
+.project-card {
+  scroll-margin-top: 110px; /* 根据你的 nav 高度微调 */
+}
+
 /* Top local navigation bar (sticky) */
 .research-top-nav {
   position: sticky;
