@@ -8,12 +8,12 @@ author_profile: true
 <style>
   /* Offset anchor scroll position for sticky nav */
 .project-card {
-  scroll-margin-top: 50px; /* 根据你的 nav 高度微调 */
+  scroll-margin-top: 120px; /* 根据你的 nav 高度微调 */
 }
   /* Tight spacing between subsection title and bullets in project cards */
 .project-card .project-subtitle {
-  margin-top: 6px;
-  margin-bottom: 4px;  /* 关键：压缩与 ul 的距离 */
+  margin-top: 10px;
+  margin-bottom: 5px;  /* 关键：压缩与 ul 的距离 */
 }
 
 /* Project title styling */
