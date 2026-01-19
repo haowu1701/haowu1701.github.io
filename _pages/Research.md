@@ -137,7 +137,7 @@ I enjoy collaborating with domain scientists to solve real-world problems in bio
   <p class="project-subtitle"><strong>Study design and data:</strong></p>
   <ul>
     <li>Multicenter randomized clinical trial (WRIST)</li>
-    <li>Repeated functional outcome measurements collected up to one year post-treatment</li>
+    <li>Longitudinal functional outcome measurements collected up to one year post-treatment</li>
   </ul>
 
   <p class="project-subtitle"><strong>My role:</strong></p>
