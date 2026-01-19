@@ -13,7 +13,10 @@ main:
     
   - title: "Methodology Research"
     url: /Methodology/
-
+    
+  - title: "Publications"
+    url: /Publications/
+    
   - title: "CV"
     url: /cv/    
 
