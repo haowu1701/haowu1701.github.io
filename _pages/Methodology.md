@@ -105,25 +105,21 @@ My research focuses on semiparametric and causal inference methods, with emphasi
 <div class="overview-section">
 <h3>📌 Semiparametric Theory</h3>
 <ul class="overview-list">
-  <li>Efficient influence functions (EIF)</li> <li>Asymptotic variance estimation under model misspecification</li> <li>Double/debiased machine learning (DML)</li>
+  <li>Efficient influence functions (EIF · Asymptotic variance estimation under model misspecification · Double/debiased machine learning (DML)</li>
 </ul>
 
 <h3>📌 Causal Inference</h3>
 <ul class="overview-list">
-  <li>Doubly robust estimation</li>
-  <li>Quantile treatment effects (QTE)</li>
-  <li>Probability treatment effects (PTE)</li>
+  <li>Doubly robust estimation · Quantile treatment effects (QTE) · Probability treatment effects (PTE)</li>
 </ul>
 
-<h3>📌 Other Methodological Topics</h3>
+<h3>📌 Other Topics</h3>
 <ul class="overview-list">
-  <li>Cumulative probability models (CPM)</li>
-  <li>Clustered randomized clinical trials (CRCT)</li>
-  <li>Longitudinal missingness</li>
+  <li>Cumulative probability models (CPM) · Clustered randomized clinical trials (CRCT) · Longitudinal missingness</li>
 </ul>
 </div>
 
-  Below are three completed methodology projects from my PhD to date.
+ <strong> Below are three completed methodology projects from my PhD to date.</strong><br>
 <!-- Sticky nav placed AFTER the sentence -->
 
 <nav class="research-top-nav">
@@ -212,7 +208,7 @@ My research focuses on semiparametric and causal inference methods, with emphasi
     <li>Applied the proposed method to real longitudinal psychiatric data</li>
   </ul>
 
-  <p class="project-subtitle"><strong>Why this matters for longitudinal and clinical research:</strong></p>
+  <p class="project-subtitle"><strong>Why this matters:</strong></p>
   <ul>
     <li>Enables robust inference for longitudinal treatment effects in the presence of dropout, a pervasive issue in clinical trials and follow-up studies</li>
     <li>Reduces sensitivity to model misspecification while retaining efficiency, improving the reliability of inference over time</li>
