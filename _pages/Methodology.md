@@ -4,6 +4,9 @@ title: "Methodology Research"
 permalink: /Methodology/
 author_profile: true
 ---
+
+My research focuses on semiparametric and causal inference methods, with emphasis on efficient influence functions, doubly robust estimation, and machine learning–assisted approaches. I study quantile-based causal estimands and robust inference under model misspecification and missing data.
+
 ### 📌 Semiparametric Theory
 - Efficient influence functions (EIF)   
 - Asymptotic variance estimation under model misspecification
