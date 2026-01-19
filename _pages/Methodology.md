@@ -10,7 +10,16 @@ author_profile: true
 .project-card {
   scroll-margin-top: 110px; /* 根据你的 nav 高度微调 */
 }
+/* Compact bullet list for overview section */
+.overview-list {
+  margin-top: 4px;
+  margin-bottom: 10px;
+}
 
+.overview-list li {
+  margin-bottom: 2px;   /* 控制行间距 */
+  line-height: 1.25;    /* 更紧凑但仍可读 */
+}
 /* Top local navigation bar (sticky) */
 .research-top-nav {
   position: sticky;
@@ -66,26 +75,26 @@ author_profile: true
 <p>
 My research focuses on semiparametric and causal inference methods, with emphasis on the following areas:
 </p>
-  <h3>📌 Semiparametric Theory</h3>
-  <ul>
-    <li>Efficient influence functions (EIF)</li>
-    <li>Asymptotic variance estimation under model misspecification</li>
-    <li>Double/debiased machine learning (DML)</li>
-  </ul>
+<h3>📌 Semiparametric Theory</h3>
+<ul class="overview-list">
+  <li>Efficient influence functions (EIF)</li>
+  <li>Asymptotic variance estimation under model misspecification</li>
+  <li>Double/debiased machine learning (DML)</li>
+</ul>
 
-  <h3>📌 Causal Inference</h3>
-  <ul>
-    <li>Doubly robust estimation</li>
-    <li>Quantile treatment effects (QTE)</li>
-    <li>Probability treatment effects (PTE)</li>
-  </ul>
+<h3>📌 Causal Inference</h3>
+<ul class="overview-list">
+  <li>Doubly robust estimation</li>
+  <li>Quantile treatment effects (QTE)</li>
+  <li>Probability treatment effects (PTE)</li>
+</ul>
 
-  <h3>📌 Other Methodological Topics</h3>
-  <ul>
-    <li>Cumulative probability models (CPM)</li>
-    <li>Clustered randomized clinical trials (CRCT)</li>
-    <li>Longitudinal missingness</li>
-  </ul>
+<h3>📌 Other Methodological Topics</h3>
+<ul class="overview-list">
+  <li>Cumulative probability models (CPM)</li>
+  <li>Clustered randomized clinical trials (CRCT)</li>
+  <li>Longitudinal missingness</li>
+</ul>
 
   Below are three completed methodology projects from my PhD to date.
 <!-- Sticky nav placed AFTER the sentence -->
