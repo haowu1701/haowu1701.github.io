@@ -6,22 +6,15 @@ author_profile: true
 ---
 
 <style>
-/* === Anchor offset fix for sticky nav === */
-
-/* 1. When anchor is on section */
-section[id] {
-  scroll-margin-top: 120px;
+/* Anchor spacer to avoid sticky nav overlap */
+.anchor {
+  display: block;
+  height: 0;
+  position: relative;
+  top: -120px; /* = 你的 header + nav 的总遮挡高度，110~140 之间调 */
+  visibility: hidden;
 }
 
-/* 2. When anchor lands on headings inside section */
-section[id] h2,
-section[id] h3 {
-  scroll-margin-top: 120px;
-}
-/* Fallback for archive layout wrappers */
-.archive section[id] {
-  scroll-margin-top: 120px;
-}
 
   /* Tight spacing between subsection title and bullets in project cards */
 .project-card .project-subtitle {
@@ -141,7 +134,8 @@ My research focuses on semiparametric and causal inference methods, with emphasi
   <a href="#project3">AWGEE with longitudinal missingness</a>
 </nav>
 
-<section class="project-card" id="project1">
+<span class="anchor" id="project1"></span>
+<section class="project-card">
 <p class="project-title">
   Doubly Robust Estimators of Quantile Treatment Effects with Semiparametric Cumulative Probability Models
 </p>
@@ -171,8 +165,8 @@ My research focuses on semiparametric and causal inference methods, with emphasi
   </ul>
 </section>
 
-
-<section class="project-card" id="project2">
+<span class="anchor" id="project2"></span>
+<section class="project-card">
  <p class="project-title">
     Why Double Robustness Does Not Extend to Variance Estimation Under Parametric Nuisance Models
   </p>
@@ -202,8 +196,8 @@ My research focuses on semiparametric and causal inference methods, with emphasi
   </ul>
 </section>
 
-
-<section class="project-card" id="project3">
+<span class="anchor" id="project3"></span>
+<section class="project-card">
   <p class="project-title">
     A Simple Augmentation of Weighted Generalized Estimating Equations for Doubly Robust Estimation in Longitudinal Data with Missingness
   </p>
