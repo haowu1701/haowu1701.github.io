@@ -6,10 +6,23 @@ author_profile: true
 ---
 
 <style>
-  /* Offset anchor scroll position for sticky nav */
-.project-card {
-  scroll-margin-top: 120px; /* 根据你的 nav 高度微调 */
+/* === Anchor offset fix for sticky nav === */
+
+/* 1. When anchor is on section */
+section[id] {
+  scroll-margin-top: 120px;
 }
+
+/* 2. When anchor lands on headings inside section */
+section[id] h2,
+section[id] h3 {
+  scroll-margin-top: 120px;
+}
+/* Fallback for archive layout wrappers */
+.archive section[id] {
+  scroll-margin-top: 120px;
+}
+
   /* Tight spacing between subsection title and bullets in project cards */
 .project-card .project-subtitle {
   margin-top: 10px;
@@ -121,6 +134,7 @@ My research focuses on semiparametric and causal inference methods, with emphasi
 
   Below are three completed methodology projects from my PhD to date.
 <!-- Sticky nav placed AFTER the sentence -->
+
 <nav class="research-top-nav">
   <a href="#project1">Doubly Robust Estimators of QTE/PTE</a>
   <a href="#project2">Doubly robust varaince estimator</a>
