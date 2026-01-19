@@ -10,16 +10,31 @@ author_profile: true
 .project-card {
   scroll-margin-top: 110px; /* 根据你的 nav 高度微调 */
 }
-/* Compact bullet list for overview section */
-.overview-list {
-  margin-top: 4px;
+/* Project title styling */
+.project-title {
+  font-size: 1.15rem;      /* 比正文大一点 */
+  font-weight: 600;        /* 接近论文标题粗细 */
+  margin-top: 6px;
   margin-bottom: 10px;
+  line-height: 1.35;
+}
+
+  /* Compact spacing for overview section */
+.overview-section h3 {
+  margin-top: 8px;      /* h3 与上一块的距离 */
+  margin-bottom: 4px;   /* h3 与 ul 的距离 */
+}
+
+.overview-section ul {
+  margin-top: 0;
+  margin-bottom: 8px;   /* 每一组 overview 的段间距 */
 }
 
 .overview-list li {
-  margin-bottom: 2px;   /* 控制行间距 */
-  line-height: 1.25;    /* 更紧凑但仍可读 */
+  margin-bottom: 2px;
+  line-height: 1.25;
 }
+
 /* Top local navigation bar (sticky) */
 .research-top-nav {
   position: sticky;
@@ -75,6 +90,7 @@ author_profile: true
 <p>
 My research focuses on semiparametric and causal inference methods, with emphasis on the following areas:
 </p>
+<div class="overview-section">
 <h3>📌 Semiparametric Theory</h3>
 <ul class="overview-list">
   <li>Efficient influence functions (EIF)</li>
@@ -95,6 +111,7 @@ My research focuses on semiparametric and causal inference methods, with emphasi
   <li>Clustered randomized clinical trials (CRCT)</li>
   <li>Longitudinal missingness</li>
 </ul>
+</div>
 
   Below are three completed methodology projects from my PhD to date.
 <!-- Sticky nav placed AFTER the sentence -->
@@ -105,9 +122,9 @@ My research focuses on semiparametric and causal inference methods, with emphasi
 </nav>
 
 <section class="project-card" id="project1">
- <p><strong>Project title:</strong><br>
+<p class="project-title">
   Doubly Robust Estimators of Quantile Treatment Effects with Semiparametric Cumulative Probability Models
-  </p>
+</p>
 
   <p><strong>Clinical problem addressed:</strong><br>
   In real-world evidence studies, outcomes are often highly skewed and subject to detection limits, making mean-based causal analyses unstable.
@@ -119,7 +136,7 @@ My research focuses on semiparametric and causal inference methods, with emphasi
     <li>Implemented efficient influence function–based estimators with valid variance estimation</li>
   </ul>
 
-  <p><strong>Why this matters for pharmaceutical and clinical research:</strong></p>
+  <p><strong>Why this matters:</strong></p>
   <ul>
     <li>Captures treatment effects across the entire outcome distribution, not just the mean</li>
     <li>Provides robust inference under partial model misspecification</li>
