@@ -53,7 +53,7 @@ author_profile: true
   <div class="news-year">2025.12</div>
   <div class="news-content">
     <span class="news-category">News</span>
-    Hao Wu has passed the PhD qualifying exam and is now officially a PhD candidate in the Department of Biostatistics at Vanderbilt University.
+    Hao Wu has passed the PhD oral qualifying exam and is now officially a PhD candidate in the Department of Biostatistics at Vanderbilt University.
   </div>
 </div>
 
