@@ -151,7 +151,11 @@ I enjoy collaborating with domain scientists to solve real-world problems in bio
   <ul>
     <li>Provided evidence-based guidance on treatment selection for older adults with distal radius fractures</li>
     <li>Demonstrated the importance of physiologic age in predicting functional recovery</li>
-    <li>Published in [JAMA Network Open(2023)](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2801347)</li>
+  <li>Published  in 
+  <a href="https://doi.org/10.1001/jamanetworkopen.2022.55786" target="_blank">
+    <em>JAMA Network Open</em> (2023)
+  </a>
+</li>
   </ul>
 
 </section>
