@@ -182,9 +182,6 @@ I enjoy collaborating with domain scientists to solve real-world problems in bio
     <li>Published in <em>JAMA Surgery</em> (2024)</li>
   </ul>
 
-</section>
-
-<section class="project-card">
 
   <p class="project-title">
     Impact of Regional Surgeon Competition on Breast Reconstruction Use, Cost, and Outcomes After Mastectomy
@@ -209,6 +206,8 @@ I enjoy collaborating with domain scientists to solve real-world problems in bio
 
   <p class="project-subtitle"><strong>Impact and outcome:</strong></p>
   <ul>
+</section>
+
     
 <span class="anchor" id="project3"></span>
 <section class="project-card">
@@ -250,8 +249,6 @@ I enjoy collaborating with domain scientists to solve real-world problems in bio
     <li>Informed clinical decision-making and health policy considerations regarding surgical management and revision risk</li>
     <li>Demonstrated the value of real-world evidence for evaluating surgical outcomes at the population level</li>
   </ul>
-
-</section>
 
 
     <li>Provided evidence on how regional market competition shapes access to reconstructive surgery after mastectomy</li>
