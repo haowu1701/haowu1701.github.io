@@ -182,7 +182,6 @@ I enjoy collaborating with domain scientists to solve real-world problems in bio
   <p class="project-subtitle"><strong>My role:</strong></p>
   <ul>
     <li>Conducted multivariable regression analyses to assess associations between market competition, utilization, and healthcare costs</li>
-    <li>Evaluated disparities in access and outcomes across regions with varying levels of surgeon competition</li>
     <li>Contributed to interpretation of policy-relevant findings related to market structure and patient care</li>
   </ul>
 
@@ -219,7 +218,6 @@ I enjoy collaborating with domain scientists to solve real-world problems in bio
   <ul>
     <li>Conducted statistical analyses comparing pre- and post-ACA cohorts</li>
     <li>Applied multivariable regression and piecewise linear regression to evaluate changes in access over time</li>
-    <li>Assessed disparities by insurance status and urbanicity</li>
     <li>Contributed to interpretation of access and cost outcomes</li>
   </ul>
 
