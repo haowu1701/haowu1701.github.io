@@ -124,7 +124,7 @@ My research focuses on semiparametric and causal inference methods, with emphasi
 <nav class="research-top-nav">
   <a href="#project1">Doubly Robust Estimators of QTE/PTE</a>
   <a href="#project2">Doubly robust varaince estimator</a>
-  <a href="#other">Other Topics</a>
+  <a href="#project3">AWGEE with longitudinal missingness</a>
 </nav>
 
 <section class="project-card" id="project1">
@@ -185,6 +185,38 @@ My research focuses on semiparametric and causal inference methods, with emphasi
     <li>Semiparametric theory · Influence functions · Doubly robust estimation</li>
     <li>Asymptotic analysis · Monte Carlo simulation</li>
     <li>Real-data analysis · R</li>
+  </ul>
+</section>
+
+
+<section class="project-card" id="project-awgee">
+  <p class="project-title">
+    A Simple Augmentation of Weighted Generalized Estimating Equations for Doubly Robust Estimation in Longitudinal Data with Missingness
+  </p>
+
+  <p><strong>Clinical and statistical problem addressed:</strong><br>
+  In longitudinal studies, monotone dropout and missing outcomes are common and can severely bias inference. Standard approaches, such as outcome imputation or inverse probability weighting, are often highly sensitive to model misspecification.
+  </p>
+
+  <p class="project-subtitle"><strong>My contribution:</strong></p>
+  <ul>
+    <li>Developed a doubly robust estimator, the Augmented Weighted Generalized Estimating Equation (AWGEE), for longitudinal responses with monotone dropout</li>
+    <li>Unified imputation-based methods and weighted generalized estimating equations within a single estimating equation framework</li>
+    <li>Established that AWGEE remains consistent if either the imputation model or the dropout model is correctly specified, while improving efficiency through augmentation with re-imputed outcomes</li>
+    <li>Applied the proposed method to real longitudinal psychiatric data</li>
+  </ul>
+
+  <p class="project-subtitle"><strong>Why this matters for longitudinal and clinical research:</strong></p>
+  <ul>
+    <li>Enables robust inference for longitudinal treatment effects in the presence of dropout, a pervasive issue in clinical trials and follow-up studies</li>
+    <li>Reduces sensitivity to model misspecification while retaining efficiency, improving the reliability of inference over time</li>
+  </ul>
+
+  <p class="project-subtitle"><strong>Methods and tools:</strong></p>
+  <ul>
+    <li>Doubly robust estimation · Generalized estimating equations (GEE)</li>
+    <li>Longitudinal data analysis · Missing data due to dropout</li>
+    <li>R</li>
   </ul>
 </section>
 
