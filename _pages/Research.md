@@ -113,7 +113,7 @@ I enjoy collaborating with domain scientists to solve real-world problems in bio
   <a href="#project1">Longitudinal Randomized Clinical Trials</a>
   <a href="#project2">Observational Healthy Policy Studies</a>
   <a href="#project3">Longitudinal Health Economics & Utilization</a>
-  <a href="#project4">project 4</a>
+  <a href="#project4">Mental Health</a>
 </nav>
 
 ---
@@ -254,6 +254,40 @@ I enjoy collaborating with domain scientists to solve real-world problems in bio
     <li>Provided evidence on how regional market competition shapes access to reconstructive surgery after mastectomy</li>
     <li>Highlighted economic and utilization consequences of surgeon market concentration</li>
     <li>Published in the area of observational health policy studies (2024)</li>
+  </ul>
+
+</section>
+
+
+<span class="anchor" id="project4"></span>
+<section class="project-card">
+
+  <p class="project-title">
+    An Effective Short Form of the UCLA Loneliness Scale: Item Response Theory and Network Psychometrics
+  </p>
+
+  <p><strong>Research question addressed:</strong><br>
+  To develop and validate a shortened version of the UCLA Loneliness Scale that preserves psychometric reliability and construct validity while reducing respondent burden.
+  </p>
+
+  <p class="project-subtitle"><strong>Study design and data:</strong></p>
+  <ul>
+    <li>Combined cohort sample of community-dwelling adults</li>
+    <li>Questionnaire-based psychometric assessment data</li>
+  </ul>
+
+  <p class="project-subtitle"><strong>My role:</strong></p>
+  <ul>
+    <li>Applied item response theory using graded response models to guide item reduction</li>
+    <li>Conducted exploratory and confirmatory factor analyses, including tests of measurement invariance</li>
+    <li>Performed network psychometric analyses to assess information retention and construct structure</li>
+  </ul>
+
+  <p class="project-subtitle"><strong>Impact and outcome:</strong></p>
+  <ul>
+    <li>Developed a concise, psychometrically sound short form of a widely used loneliness scale</li>
+    <li>Facilitated efficient assessment in large-scale surveys and clinical research settings</li>
+    <li>Published in <em>General Psychiatry</em> (2025)</li>
   </ul>
 
 </section>
