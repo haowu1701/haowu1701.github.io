@@ -111,7 +111,7 @@ I enjoy collaborating with domain scientists to solve real-world problems in bio
 <!-- Local navigation bar at the top (sticky) -->
 <nav class="research-top-nav">
   <a href="#project1">Longitudinal Randomized Clinical Trials</a>
-  <a href="#project2">Observational Healthy Policy Studies</a>
+  <a href="#project2">Observational Health Policy Studies</a>
   <a href="#project3">Longitudinal Health Economics & Utilization</a>
   <a href="#project4">Mental Health</a>
 </nav>
