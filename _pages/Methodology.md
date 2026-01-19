@@ -110,7 +110,7 @@ My research focuses on semiparametric and causal inference methods, with emphasi
 <div class="overview-section">
 <h3>📌 Semiparametric Theory</h3>
 <ul class="overview-list">
-  <li>Efficient influence functions (EIF · Asymptotic variance estimation under model misspecification · Double/debiased machine learning (DML)</li>
+  <li>Efficient influence functions · Asymptotic variance estimation under model misspecification · Double/debiased machine learning </li>
 </ul>
 
 <h3>📌 Causal Inference</h3>
@@ -120,7 +120,7 @@ My research focuses on semiparametric and causal inference methods, with emphasi
 
 <h3>📌 Other Topics</h3>
 <ul class="overview-list">
-  <li>Cumulative probability models (CPM) · Clustered randomized clinical trials (CRCT) · Longitudinal missingness</li>
+  <li>Cumulative probability models · Clustered randomized clinical trials · Longitudinal missingness</li>
 </ul>
 </div>
 
