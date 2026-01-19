@@ -105,22 +105,32 @@ My research focuses on semiparametric and causal inference methods, with emphasi
 </nav>
 
 <section class="project-card" id="project1">
-  <h3>📌Doubly Robust Estimators of QTE/PTE</h3>
+ <p><strong>Project title:</strong><br>
+  Doubly Robust Estimators of Quantile Treatment Effects with Semiparametric Cumulative Probability Models
+  </p>
+
+  <p><strong>Clinical problem addressed:</strong><br>
+  In real-world evidence studies, outcomes are often highly skewed and subject to detection limits, making mean-based causal analyses unstable.
+  </p>
+
+  <p><strong>My contribution:</strong></p>
   <ul>
-   Doubly Robust Estimators of Quantile Treatment Effects with Semiparametric Cumulative Probability Models
-Clinical problem addressed:
-In real-world evidence studies, outcomes are often highly skewed and subject to detection limits, making mean-based causal analyses unstable.
-My contribution:
-•	Developed a doubly robust estimation framework for quantile and probability treatment effects using semiparametric cumulative probability models.
-•	Implemented efficient influence function–based estimators with variance estimation.
-Why this matters for pharma:
-•	Captures treatment effects across the entire outcome distribution, not just the mean.
-•	Provides robust inference when outcome or propensity models are misspecified.
-•	Directly applicable to observational study with highly skewed outcomes or detection limits.
-Technical skills demonstrated:
-•	Doubly robust estimation · QTE / PTE · Semiparametric rank-based modeling
-•	Monte Carlo simulation and bootstrap inference
-•	Analysis of real biomedical data (HIV study)
+    <li>Developed a doubly robust framework for quantile and probability treatment effects using semiparametric cumulative probability models</li>
+    <li>Implemented efficient influence function–based estimators with valid variance estimation</li>
+  </ul>
+
+  <p><strong>Why this matters for pharmaceutical and clinical research:</strong></p>
+  <ul>
+    <li>Captures treatment effects across the entire outcome distribution, not just the mean</li>
+    <li>Provides robust inference under partial model misspecification</li>
+    <li>Directly applicable to observational studies with skewed outcomes or detection limits</li>
+  </ul>
+
+  <p><strong>Technical skills demonstrated:</strong></p>
+  <ul>
+    <li>Doubly robust estimation · QTE / PTE · Semiparametric modeling</li>
+    <li>Monte Carlo simulation and bootstrap inference</li>
+    <li>Analysis of real biomedical data (HIV studies)</li>
   </ul>
 </section>
 
