@@ -137,22 +137,20 @@ author_profile: true
 ---
 My research focuses on semiparametric and causal inference methods, with emphasis on the following areas:
 
-### 📌 Semiparametric Theory
-- Efficient influence functions (EIF)   
-- Asymptotic variance estimation under model misspecification
-- Double/debiased machine learning (DML)
-
-### 📌 Causal Inference
-- Doubly robust estimation  
-- Quantile treatment effects (QTE)
-- Probablity treatment effects (PTE)
-
-
-### 📌 Others
-- Cumulative probability models (CPM)
-- Clustered randomized clinical trials (CRCT)
-- High-dimensional confounding adjustment
-- Longitudinal missingness
+      ### 📌 Semiparametric Theory
+      - Efficient influence functions (EIF)
+      - Asymptotic variance estimation under model misspecification
+      - Double/debiased machine learning (DML)
+      
+      ### 📌 Causal Inference
+      - Doubly robust estimation
+      - Quantile treatment effects (QTE)
+      - Probability treatment effects (PTE)
+      
+      ### 📌 Other Methodological Topics
+      - Cumulative probability models (CPM)
+      - Clustered randomized clinical trials (CRCT)
+      - Longitudinal missingness
 
 
 
