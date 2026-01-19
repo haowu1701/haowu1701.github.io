@@ -56,8 +56,8 @@ author_profile: true
 9. Fahmy, J. N., Nasser, J. S., **Wu, H.**, Wang, L., Chung, K. C.  
    *Use of Postoperative Prophylactic Antibiotics in Breast Surgery: Predictors of Adherence to Evidence-Based Guidelines.*  
    *(Submitted)*
-   
-11. Brandee Feola, **Hao Wu**, Jinyuan Liu, Julia M Sheffield.
-    *Contributions of worry and social anxiety to paranoia in clinical and non-clinical samples: cross-sectional and longitudinal results*
+
+10. Brandee Feola, **Hao Wu**, Jinyuan Liu, Julia M Sheffield.  
+    *Contributions of worry and social anxiety to paranoia in clinical and non-clinical samples: cross-sectional and longitudinal results*  
     *(Submitted)*
 
