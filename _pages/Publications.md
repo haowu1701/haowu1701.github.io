@@ -8,15 +8,15 @@ author_profile: true
 
 1. **Wu, H.**, Shao, L., Gui, T. T., Wu, T. C., Huang, Z., Tu, S., Tu, X. M., Liu, J., Lin, T.  
    *Why Is the Doubly Robust Estimator for Causal Inference Not Doubly Robust?*  
-   *(Submitted)*
+   *(Under Review)*
 
 2. **Wu, H.**, Li, C., Shepherd, B. E.  
    *Doubly Robust Estimators of Quantile Treatment Effects With Semiparametric Cumulative Probability Models.*  
-   *(Submitted)*
+   *(Manuscript prepared)*
 
 3. **Wu, H.**, Lin, T., Tu, X. M., Liu, J.  
    *A Simple Augmentation of Weighted Generalized Estimating Equations for Doubly Robust Estimation in Longitudinal Data with Missingness.*  
-   *(Submitted)*
+   *(Manuscript prepared)*
    
 ## Collaborative Publications
 
