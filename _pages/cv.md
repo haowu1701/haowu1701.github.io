@@ -6,5 +6,10 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-📄 **Please download my CV here:**  
-👉 (Updated 2026-1-18)[Download CV (PDF)](/files/CV-HW.pdf)
+📄 **Curriculum Vitae**
+
+- **Academic CV** (updated Jan 18, 2026)  
+  👉 [Download PDF](/files/CV-HW.pdf)
+
+- **Industry Resume** (updated Jan 19, 2026)  
+  👉 [Download PDF](/files/CV-HW-industry.pdf)
