@@ -51,7 +51,7 @@ author_profile: true
 
 8. Kambach, G., **Wu, H.**, Talbot, K.  
    *Outcomes of adults with COPD hospitalized with laboratory-confirmed influenza.*  
-   *(Submitted)*
+   *(Manuscript prepared)*
 
 9. Fahmy, J. N., Nasser, J. S., **Wu, H.**, Wang, L., Chung, K. C.  
    *Use of Postoperative Prophylactic Antibiotics in Breast Surgery: Predictors of Adherence to Evidence-Based Guidelines.*  
@@ -59,5 +59,5 @@ author_profile: true
 
 10. Brandee Feola, **Hao Wu**, Jinyuan Liu, Julia M Sheffield.  
     *Contributions of worry and social anxiety to paranoia in clinical and non-clinical samples: cross-sectional and longitudinal results*  
-    *(Submitted)*
+    *(Manuscript prepared)*
 
