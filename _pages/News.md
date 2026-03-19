@@ -48,7 +48,15 @@ author_profile: true
 
 <div class="news-container">
 <!-- ====== COPY THIS BLOCK FOR EACH NEWS ITEM ====== -->
-
+<div class="news-item">
+  <div class="news-year">2026.03</div>
+  <div class="news-content">
+    <span class="news-category">Talk</span>
+    Hao Wu gave a presentation at ENAR 2026 Spring on 
+    <em>“A Simple Augmentation of Weighted Generalized Estimating Equations for Doubly Robust Estimation in Longitudinal Data with Missingness.”</em>
+  </div>
+</div>
+  
 <div class="news-item">
   <div class="news-year">2025.12</div>
   <div class="news-content">
