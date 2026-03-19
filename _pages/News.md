@@ -92,7 +92,7 @@ author_profile: true
   <div class="news-year">2025.08</div>
   <div class="news-content">
     <span class="news-category">Conference</span>
-   Presented a short course in Joint Statistical Meetings (JSM): Unlocking the Power of Semiparametric Models: A Practical Tutorial for
+   Presented a short course in <a href="[https://doi.org/10.48550/arXiv.2511.17907](https://ww2.amstat.org/meetings/jsm/2025/)" target="_blank">Joint Statistical Meetings (JSM)</a>: Unlocking the Power of Semiparametric Models: A Practical Tutorial for
 Analyzing Complex Data with Minimum Assumptions: <b>H Wu</b>, T Lin, X Tu, JY Liu (2025). Augmented Weighted Generalized Estimating Equations of
 Longitudinal Data with Monotone Missing.
 
